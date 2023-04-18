@@ -8,6 +8,9 @@ date: 2023-2-1 00:00 +0800
 
 *JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)*
 
+![GA](https://github.com/Samlzy/pics/raw/Samlzy-patch-1/jiaolong.png)
+![GA](https://github.com/Samlzy/pics/raw/Samlzy-patch-1/Jiaolong_fig.png)
+
 ## Description
 
 The data used in this paper was collected and provided from the National Deep Sea Center in Qingdao, Shandong, China. The initial data is collected in the $$151^{st}$$ exploration task for the JiaoLong DSMS on March $$19^{th}$$, 2017.

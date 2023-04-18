@@ -30,6 +30,19 @@ The experimental data is collected from a realistic large-scale rotating machine
 
 - F7: Bearing with the absence of balls; Defective gearwheel 
 
+**The photograph of the utilized test rig:**
+
+![](https://github.com/Samlzy/pics/raw/Samlzy-patch-1/CFD_1.png)
+
+**The schematic diagram of the utilized test rig:**
+
+![](https://github.com/Samlzy/pics/raw/Samlzy-patch-1/CFD_2.png)
+
+**The description of parameters:**
+
+- *chip*: Data collection channel 
+- *wave*: Collected vibration signal
+
 The equipment is supported by *Guangdong Province Key Laboratory for petrochemical equipment fault diagnosis*.
 
 For more details, please refer to the [*Github Repository*](https://github.com/liuzy0708/CFD_datasets)

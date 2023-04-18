@@ -82,6 +82,8 @@
 
   <p><em>Multi-mode Tennessee Eastman Process Datasets</em></p>
 
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112105115641.jpeg" alt="" /></p>
+
 <h2 id="description">Description</h2>
 
 <p>The Tennessee Eastman Process (TEP) dataset is a widely used benchmark dataset in the field of chemical process control. It was originally created by the Tennessee Eastman Company as a simulated model of a chemical plant for the purpose of testing process control strategies. The dataset consists of measurements from 52 sensors and 23 control inputs, recorded over a period of 21 months, with a sampling interval of 5 minutes.</p>
@@ -89,6 +91,14 @@
 <p>The TEP dataset is considered multi-mode, meaning that it contains multiple distinct operating modes or regimes. These modes correspond to different stages of the process, each with its own set of sensor readings and control inputs. The TEP dataset is widely used for developing and testing process control algorithms, as well as for benchmarking and comparing different methods. Its multi-mode nature makes it a challenging and realistic testbed for evaluating the robustness and adaptability of process control strategies.</p>
 
 <p>We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in <em>Mode1xInitial.mat</em> —<em>Mode6xInitial.mat</em>. The parameters of different modes are listed in Table I and Table II.</p>
+
+<center> Table I: Measurements of different modes </center>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112125428450.jpeg" alt="" /></p>
+
+<center> Table II: Main variables of different modes </center>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112125508800.jpeg" alt="" /></p>
 
 <h2 id="operation">Operation</h2>
 
@@ -101,11 +111,20 @@
     <ol>
       <li>Copy files  <em>Mode_1_Init.m, Mode1xInitial.mat and MultiLoop_mode1.mdl</em> and rename to <em>Mode_2_Init.m, Mode2xInitial.mat and MultiLoop_mode2.mdl</em>.</li>
       <li>Modify Mode1xInitial in 29 lines in <em>Mode_2_Init.m</em> to Mode2xInitial.</li>
-      <li>Modify Mode_1_Init to Mode_2_Init by opening MultiLoop_mode2.mdl.</li>
-      <li>
-        <p>Running <em>upda.m</em> and modify as follows:</p>
+      <li>Modify Mode_1_Init to Mode_2_Init by opening  MultiLoop_mode2.mdl  and the steps as follow figures:</li>
+    </ol>
+  </li>
+</ul>
 
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>clear all;
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112133934854.jpeg" alt="" /></p>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112133904366.jpeg" alt="" /></p>
+
+<ol>
+  <li>
+    <p>Running <em>upda.m</em> and modify as follows:</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>clear all;
 clc;
 load Mode2xInitial
 for i =1:35
@@ -114,25 +133,51 @@ for i =1:35
     xInitial.signals(i).blockName = blockName;
 end
 save ('Mode2xInitial.mat','xInitial')
-</code></pre></div>        </div>
-      </li>
-      <li>
-        <p>Adjust the  parameters <em>MultiLoop_mode2.mdl</em> according to  Fig. 2 and Fig. 3. Note that the value of parameters adjusted each time should not be too large, otherwise the simulation will end quickly. And run the following code after each successful adjustment.</p>
-
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>xInitial = xFinal
-</code></pre></div>        </div>
-      </li>
-      <li>
-        <p>All parameters are adjusted to the final mode and run:</p>
-
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>save('Mode2xInitial.mat','xInitial')
-</code></pre></div>        </div>
-      </li>
-    </ol>
+</code></pre></div>    </div>
   </li>
-</ul>
+  <li>
+    <p>Adjust the  parameters <em>MultiLoop_mode2.mdl</em> according to  Fig. 2 and Fig. 3. Note that the value of parameters adjusted each time should not be too large, otherwise the simulation will end quickly. And run the following code after each successful adjustment.</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>xInitial = xFinal
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>All parameters are adjusted to the final mode and run:</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>save('Mode2xInitial.mat','xInitial')
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h2 id="display">Display</h2>
+
+<p>We selected part of the measured data of some faults in mode 6 for display.</p>
+
+<p>A
+<img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112143030234.jpeg" alt="" /></p>
+
+<p>B
+<img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112143054024.jpeg" alt="" /></p>
+
+<p>C
+<img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112143136774.jpeg" alt="" /></p>
+
+<p>D
+<img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112143150417.jpeg" alt="" /></p>
+
+<p>E
+<img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112143228409.jpeg" alt="" /></p>
+
+<p>F
+<img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112143248418.jpeg" alt="" /></p>
+
+<p>G
+<img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/image-20230112143402757.jpeg" alt="" /></p>
+
+<p>A-E show the results between normal data and different faults; F and G show the results between different faults.</p>
 
 <p>For more details, please refer to the <a href="https://github.com/liuzy0708/MultimodeTEP"><em>Github Repository</em></a></p>
+
 
 
   
@@ -140,7 +185,7 @@ save ('Mode2xInitial.mat','xInitial')
       <div class="post-tags-section">
   <i class="post-tags-icon fas fa-tags"></i>
   <ul class="post-tags"><li>
-        <a class="post-tag" href="/tags/#dataset">dataset</a></li></ul>
+        <a class="post-tag" href="/tags/#data">data</a></li></ul>
 </div>
 
   
@@ -154,6 +199,13 @@ save ('Mode2xInitial.mat','xInitial')
   <ul class="related-posts">
     
       <li>
+        <a href="/2023/04/18/ConceptDrift_Dataset/">
+          Conceptdrift_dataset
+          <small><time datetime="2023-04-18T00:00:00+08:00">18 Apr 2023</time></small>
+        </a>
+      </li>
+    
+      <li>
         <a href="/2023/04/15/LiuZYC01/">
           SAFEPROCESS-2023 [RTSA-Survey]
           <small><time datetime="2023-04-15T00:00:00+08:00">15 Apr 2023</time></small>
@@ -164,13 +216,6 @@ save ('Mode2xInitial.mat','xInitial')
         <a href="/2023/04/13/XuM-01/">
           IEEE-TIM [Ivrr-PPG]
           <small><time datetime="2023-04-13T00:00:00+08:00">13 Apr 2023</time></small>
-        </a>
-      </li>
-    
-      <li>
-        <a href="/2023/04/06/LiuZY05/">
-          IEEE-TITS [MTSGABL]
-          <small><time datetime="2023-04-06T00:00:00+08:00">06 Apr 2023</time></small>
         </a>
       </li>
     
