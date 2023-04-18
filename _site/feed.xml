@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-19T01:43:40+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeyi Liu</title><subtitle>Personal Acadamic Homepage</subtitle><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><entry><title type="html">SAFEPROCESS-2023 [RTSA-Survey]</title><link href="http://localhost:4000/2023/04/15/LiuZYC01/" rel="alternate" type="text/html" title="SAFEPROCESS-2023 [RTSA-Survey]" /><published>2023-04-15T00:00:00+08:00</published><updated>2023-04-15T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/15/LiuZYC01</id><content type="html" xml:base="http://localhost:4000/2023/04/15/LiuZYC01/">&lt;p&gt;&lt;em&gt;Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-19T02:33:03+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeyi Liu</title><subtitle>Personal Acadamic Homepage</subtitle><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><entry><title type="html">SAFEPROCESS-2023 [RTSA-Survey]</title><link href="http://localhost:4000/2023/04/15/LiuZYC01/" rel="alternate" type="text/html" title="SAFEPROCESS-2023 [RTSA-Survey]" /><published>2023-04-15T00:00:00+08:00</published><updated>2023-04-15T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/15/LiuZYC01</id><content type="html" xml:base="http://localhost:4000/2023/04/15/LiuZYC01/">&lt;p&gt;&lt;em&gt;Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY-C-01.jpeg&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
@@ -12,9 +14,16 @@
 
 &lt;p&gt;&lt;strong&gt;Compendex&lt;/strong&gt;: EI Compendex&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques</summary></entry><entry><title type="html">IEEE-TIM [Ivrr-PPG]</title><link href="http://localhost:4000/2023/04/13/XuM-01/" rel="alternate" type="text/html" title="IEEE-TIM [Ivrr-PPG]" /><published>2023-04-13T00:00:00+08:00</published><updated>2023-04-13T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/13/XuM-01</id><content type="html" xml:base="http://localhost:4000/2023/04/13/XuM-01/">&lt;p&gt;&lt;em&gt;Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/OABL.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques</summary></entry><entry><title type="html">IEEE-TIM [Ivrr-PPG]</title><link href="http://localhost:4000/2023/04/13/XuM-01/" rel="alternate" type="text/html" title="IEEE-TIM [Ivrr-PPG]" /><published>2023-04-13T00:00:00+08:00</published><updated>2023-04-13T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/13/XuM-01</id><content type="html" xml:base="http://localhost:4000/2023/04/13/XuM-01/">&lt;p&gt;&lt;em&gt;Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/XuM01-1.png&quot; alt=&quot;GA&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/XuM01-2.png&quot; alt=&quot;GA&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
@@ -49,6 +58,8 @@
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-5" /><summary type="html">Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers</summary></entry><entry><title type="html">IEEE-TITS [MTSGABL]</title><link href="http://localhost:4000/2023/04/06/LiuZY05/" rel="alternate" type="text/html" title="IEEE-TITS [MTSGABL]" /><published>2023-04-06T00:00:00+08:00</published><updated>2023-04-06T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/06/LiuZY05</id><content type="html" xml:base="http://localhost:4000/2023/04/06/LiuZY05/">&lt;p&gt;&lt;em&gt;Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY05.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Real-time safety assessment for dynamic systems with limited memory and annotations&lt;/p&gt;
@@ -82,6 +93,8 @@
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations</summary></entry><entry><title type="html">IEEE-TASE [CPRC]</title><link href="http://localhost:4000/2023/03/21/LiuZY02/" rel="alternate" type="text/html" title="IEEE-TASE [CPRC]" /><published>2023-03-21T00:00:00+08:00</published><updated>2023-03-21T00:00:00+08:00</updated><id>http://localhost:4000/2023/03/21/LiuZY02</id><content type="html" xml:base="http://localhost:4000/2023/03/21/LiuZY02/">&lt;p&gt;&lt;em&gt;Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level Real-Time Safety Assessment&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY02.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Contrastive preference-guided active learning approach based on ranking correlation for chunk-level real-time safety assessment&lt;/p&gt;
@@ -100,6 +113,8 @@
 
 &lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level Real-Time Safety Assessment</summary></entry><entry><title type="html">IEEE-TNNLS [DSLS]</title><link href="http://localhost:4000/2023/03/01/LiuZY07/" rel="alternate" type="text/html" title="IEEE-TNNLS [DSLS]" /><published>2023-03-01T00:00:00+08:00</published><updated>2023-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/03/01/LiuZY07</id><content type="html" xml:base="http://localhost:4000/2023/03/01/LiuZY07/">&lt;p&gt;&lt;em&gt;Dynamic Submodular-based Learning Strategy in Imbalanced Drifting Streams for Real-time Safety Assessment in Nonstationary Environments&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY07.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments&lt;/p&gt;
@@ -117,6 +132,8 @@
 &lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Dynamic Submodular-based Learning Strategy in Imbalanced Drifting Streams for Real-time Safety Assessment in Nonstationary Environments</summary></entry><entry><title type="html">IEEE-TCST [MCAL]</title><link href="http://localhost:4000/2023/02/14/LiuZY04/" rel="alternate" type="text/html" title="IEEE-TCST [MCAL]" /><published>2023-02-14T00:00:00+08:00</published><updated>2023-02-14T00:00:00+08:00</updated><id>http://localhost:4000/2023/02/14/LiuZY04</id><content type="html" xml:base="http://localhost:4000/2023/02/14/LiuZY04/">&lt;p&gt;&lt;em&gt;Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multi-criteria Active Learning Approach Based on Broad Learning System&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/MCAL.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
@@ -162,6 +179,8 @@ The form of data is the multi-variate time series with around 11 features for ab
 
 &lt;p&gt;For more details, please refer to the &lt;a href=&quot;https://github.com/liuzy0708/JiaolongDSMS_datasets&quot;&gt;&lt;em&gt;Github Repository&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="dataset" /><summary type="html">JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)</summary></entry><entry><title type="html">IEEE-TCYB [DMI-LS]</title><link href="http://localhost:4000/2023/02/01/LiuZY08/" rel="alternate" type="text/html" title="IEEE-TCYB [DMI-LS]" /><published>2023-02-01T00:00:00+08:00</published><updated>2023-02-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/02/01/LiuZY08</id><content type="html" xml:base="http://localhost:4000/2023/02/01/LiuZY08/">&lt;p&gt;&lt;em&gt;Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY08.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Dynamic model interpretation-guided online active learning scheme for real-time safety assessmen&lt;/p&gt;
@@ -180,6 +199,8 @@ The form of data is the multi-variate time series with around 11 features for ab
 
 &lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment</summary></entry><entry><title type="html">IEEE-TII [MPPOS-RVFL]</title><link href="http://localhost:4000/2023/01/15/HanPY01/" rel="alternate" type="text/html" title="IEEE-TII [MPPOS-RVFL]" /><published>2023-01-15T00:00:00+08:00</published><updated>2023-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/15/HanPY01</id><content type="html" xml:base="http://localhost:4000/2023/01/15/HanPY01/">&lt;p&gt;&lt;em&gt;A Minority Pseudo-label Prioritized Online Semi-supervised Random Vector Functional Link Network Approach for Industrial Real-time Fault Diagnosis&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/HanPY01.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: A minority pseudo-label prioritized online semi-supervised random vector functional link network approach for industrial real-time fault diagnosis&lt;/p&gt;
@@ -197,6 +218,8 @@ The form of data is the multi-variate time series with around 11 features for ab
 &lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A+&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: C&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-2" /><summary type="html">A Minority Pseudo-label Prioritized Online Semi-supervised Random Vector Functional Link Network Approach for Industrial Real-time Fault Diagnosis</summary></entry><entry><title type="html">EAI-SCUBE [CADM]</title><link href="http://localhost:4000/2023/01/01/HuS01/" rel="alternate" type="text/html" title="EAI-SCUBE [CADM]" /><published>2023-01-01T00:00:00+08:00</published><updated>2023-01-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/01/HuS01</id><content type="html" xml:base="http://localhost:4000/2023/01/01/HuS01/">&lt;p&gt;&lt;em&gt;CADM: Confusion Model-based Detection Method for Real-drift in Chunk Data Stream&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/HuS01.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
