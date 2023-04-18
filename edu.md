@@ -4,7 +4,7 @@ permalink: /edu/
 title: Experience
 ---
 
-***<center> Education </center>***
+**<center> Education </center>**
 
 * **B.S.** in School of Computer and Information Science, *Southwest University*, Chongqing, China, 2017.9 ~ 2021.6
 
@@ -12,7 +12,7 @@ title: Experience
 
 &nbsp;
 
-***<center> Other Experience </center>***
+**<center> Other Experience </center>**
 
 * **Research Assistant** in Institute of Fundamental and Frontier Sciences, *University of Electronic Science and Technology of China*, Chengdu, Sichuan, China, 2019.7 ~ 2019.9
 
@@ -22,7 +22,7 @@ title: Experience
 
 &nbsp;
 
-***<center> Project </center>***
+**<center> Project </center>**
 
 * **National Natural Science Foundation of China** under Grant 61573290, 61503237, 61733009, 61973332 (Participant) 
 * **National Key Research and Development Program of China** under Grant 2017YFA0700300 (Participant)

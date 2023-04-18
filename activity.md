@@ -5,14 +5,14 @@ title: Activities
 ---
 
 
-***<center> Social Membership </center>***
+**<center> Social Membership </center>**
 
 * *Chinese Association of Automation* (CAA): Member
 * *Chinese Association for Artificial Intelligence* (CAAI): Member
 
 &nbsp;
 
-***<center> Student Mentoring</center>***
+**<center> Student Mentoring</center>**
 
 ***Current***
 
@@ -32,7 +32,7 @@ title: Activities
 
 &nbsp;
 
-***<center> Review Activities </center>***
+**<center> Review Activities </center>**
 
 * *IEEE Transactions on on Pattern Analysis and Machine Intelligence* (IEEE TPAMI) 
 * *IEEE Transactions on Neural Networks and Learning Systems* (IEEE TNNLS) 
@@ -48,7 +48,7 @@ title: Activities
 
 &nbsp;
 
-***<center> Research Stats (by 2023.4.18)</center>*** 
+**<center> Research Stats (by 2023.4.18)</center>**
 
 * Google Citation: 164 
 * H-index: 7 
