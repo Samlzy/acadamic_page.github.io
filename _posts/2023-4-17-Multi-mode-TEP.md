@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi-mode TEP Datasets
-tags: data
+tags: dataset
 math: true
 date: 2022-4-17 00:00 +0800
 ---

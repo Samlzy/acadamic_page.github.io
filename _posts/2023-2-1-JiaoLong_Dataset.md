@@ -9,7 +9,7 @@ date: 2023-2-1 00:00 +0800
 *JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)*
 
 ![GA](https://github.com/Samlzy/pics/raw/Samlzy-patch-1/jiaolong.png)
-![GA](https://github.com/Samlzy/pics/raw/Samlzy-patch-1/Jiaolong_fig.png)
+![GA](https://github.com/Samlzy/pics/raw/Samlzy-patch-1/Jiaolong_fig.jpeg)
 
 ## Description
 

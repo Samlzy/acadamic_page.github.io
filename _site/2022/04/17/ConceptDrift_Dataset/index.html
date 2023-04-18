@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+  <link rel="stylesheet" href="/assets/styles.css"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Concept Drift Datasets | Zeyi Liu</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Concept Drift Datasets" />
+<meta name="author" content="Zeyi Liu" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Simulted Concept Drift Datasets" />
+<meta property="og:description" content="Simulted Concept Drift Datasets" />
+<link rel="canonical" href="http://localhost:4000/2022/04/17/ConceptDrift_Dataset/" />
+<meta property="og:url" content="http://localhost:4000/2022/04/17/ConceptDrift_Dataset/" />
+<meta property="og:site_name" content="Zeyi Liu" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-04-17T00:00:00+08:00" />
+<meta name="google-site-verification" content="xxxxx" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/2022/04/17/ConceptDrift_Dataset/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2022/04/17/ConceptDrift_Dataset/"},"author":{"@type":"Person","name":"Zeyi Liu"},"description":"Simulted Concept Drift Datasets","headline":"Concept Drift Datasets","dateModified":"2022-04-17T00:00:00+08:00","datePublished":"2022-04-17T00:00:00+08:00","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Zeyi Liu" />
+</head>
+
+
+  <body>
+
+    <div class="container pure-g"><div class="sidebar-left pure-u-1 pure-u-md-1-4" style="background-color: rgb(40, 73, 77); color: rgb(255, 255, 255); background-image: url(/bg.jpeg);"><header class="masthead">
+  <div class="avatar"><img src="/avatar.jpeg" class="avatar-image" alt="Zeyi Liu">
+    </div>
+  <div class="masthead-title">
+    <a href="/" title="Home">Zeyi Liu</a>
+  </div>
+  <div class="masthead-tagline">
+    <small>Personal Acadamic Homepage</small>
+  </div><nav class="navigation">
+    <ul class="navigation-list"><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/about/">About Me</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/edu/">Experience</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/activity/">Activities</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/honor/">Honors</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/">News</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/life/">Life</a>
+      </li></ul>
+  </nav><div class="social pure-menu pure-menu-horizontal">
+      <ul class="social-icons pure-menu-list">
+      <li class="pure-menu-item">
+          <a class="social-icon pure-menu-link" href="mailto://liuzy21@mails.tsinghua.edu.cn">
+            <i class="fas fa-envelope" title="Email"></i>
+          </a>
+        </li><li class="pure-menu-item">
+          <a class="social-icon pure-menu-link" href="https://scholar.google.com/citations?user=sRkvMF8AAAAJ&hl=zh-CN">
+            <i class="fab fa-google" title="Google Scholar"></i>
+          </a>
+        </li><li class="pure-menu-item">
+          <a class="social-icon pure-menu-link" href="https://github.com/liuzy0708">
+            <i class="fab fa-github" title="GitHub"></i>
+          </a>
+        </li><li class="pure-menu-item">
+          <a class="social-icon pure-menu-link" href="https://www.researchgate.net/profile/Zeyi-Liu-3?ev=hdr_xprf">
+            <i class="fab fa-researchgate" title="ResearchGate"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+</header>
+</div>
+
+      <div class="content pure-u-1 pure-u-md-1-2"><main>
+  <article class="post">
+  <h1 class="post-title">Concept Drift Datasets</h1>
+  <div class="post-meta"><time datetime="2022-04-17T00:00:00+08:00" itemprop="datePublished">17 Apr 2022</time></div>
+
+  <p><em>Simulted Concept Drift Datasets</em></p>
+
+<h2 id="description">Description</h2>
+
+<p>Concept drift describes unforeseeable changes in the underlying distribution of streaming data over time. Concept drift problem exists in many real-world situations, such as sensor drift and the change of operating mode. Detecting concept drift timely and accurately is of great significance for judging system state and providing decision suggestions. In order to better test and evaluate the performance of concept drift detection algorithm, we have made some datasets with known drift types and drift time points, hoping to help the development of concept drift detection.</p>
+
+<h2 id="usage">Usage</h2>
+
+<ul>
+  <li>If you want to use the datasets in the project, you can download them directly and import them using the pandas library.</li>
+  <li>Example:</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import pandas as pd
+
+data = pd.read_csv('xxxxxx/nonlinear_gradual_chocolaterotation_noise_and_redunce.csv')
+
+data = data.values 
+
+X = data[:, 0 : 5] 
+
+Y = data[:, 5] 
+</code></pre></div></div>
+
+<ul>
+  <li>Or you can download <em>DatasetsInput.py</em>, and then import the class, as shown in <em>DatasetsInput_main.py</em>.(<strong>Recommended</strong>)</li>
+  <li>Example:</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from DatasetsInput import Datasets
+
+Data = Datasets()
+
+X, Y = Data.CNNS_Nonlinear_Gradual_ChocolateRotation()
+</code></pre></div></div>
+
+<ul>
+  <li>If you want to regenerate the dataset and import it directly, you can download <em>DataStreamGenerator.py</em> and put it under the file where your code is located, and then import the class.</li>
+  <li>Example:</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from DataStreamGenerator import DataStreamGenerator
+
+C = DataStreamGenerator(class_count=2, attribute_count=2, sample_count=100000, noise=True, redunce_variable=True)
+
+X, Y = C.Nonlinear_Sudden_RollingTorus(plot=True, save=True)
+</code></pre></div></div>
+
+<ul>
+  <li>If you want to modify the source code, you can download it and do it in <em>DataStreamGenerator.py</em>.</li>
+</ul>
+
+<h2 id="dataset-introduction">Dataset Introduction</h2>
+<p>We have made four categories of datasets, including <em>linear</em>, <em>rotating cake</em>, <em>rotating chocolate</em> and <em>rolling torus</em>. All of them contain four types of drifts: <em>Abrupt</em>, <em>Sudden</em>, <em>Gradual</em> and <em>Recurrent</em>. Users can choose whether to draw distribution of samples in real time, save pictures, and make sample change videos. Users can choose whether to add noise or redundant variables as well. See the picture below for a more detailed introduction. Note that the dataset name in the following figure is also the name of the intra class function.</p>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/table1.png" alt="GA" /></p>
+
+<h3 id="linear">Linear</h3>
+<p>In the dataset <em>Linear</em>, the decision boundary is a straight line. We simulate the change of the decision boundary through the rotation of the straight line. Users can freely select the rotation axis within the range of [-10, 10]×[-10, 10].</p>
+
+<ul>
+  <li>
+    <p>Data distribution display:</p>
+  </li>
+  <li>
+    <p>Gradual</p>
+  </li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_linear_gradual_rotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Sudden</li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_linear_sudden_rotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Recurrent </li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_linear_recurrent_rotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Abrupt</li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_linear_abrupt_noise_and_redunce.gif" alt="GA" /></p>
+
+<h3 id="cakerotation">CakeRotation</h3>
+<p>In the dataset <em>CakeRotation</em>, samples with odd angle area belong to one class, while samples with even angle area belong to another class. We simulate concept drift by rotating the disk, and the range of the angle area will change during the rotation. <strong>If you need data sets of multiple categories, you can achieve it by using modulus instead of odd and even numbers on this basis[5].</strong></p>
+<ul>
+  <li>
+    <p>Data distribution display:</p>
+  </li>
+  <li>
+    <p>Gradual</p>
+  </li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_gradual_cakerotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Sudden</li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_sudden_cakerotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Recurrent </li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_recurrent_cakerotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Abrupt</li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_abrupt_cakerotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<h3 id="chocolaterotation">ChocolateRotation</h3>
+<p>In the dataset <em>ChocolateRotation</em>, samples with odd <em>x+y</em> area belong to one class, while samples with even angle area belong to another class. We simulate concept drift by rotating the chocolate plate, and use the rotation matrix to calculate the coordinates of the samples in the new coordinate system and reclassify them. <strong>If you need data sets of multiple categories, you can achieve it by using modulus instead of odd and even numbers on this basis.</strong></p>
+<ul>
+  <li>
+    <p>Data distribution display:</p>
+  </li>
+  <li>
+    <p>Gradual</p>
+  </li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/nonlinear_gradual_chocolaterotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Sudden</li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_sudden_chocolaterotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Recurrent </li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_recurrent_chocolaterotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Abrupt</li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_abrupt_chocolaterotation_noise_and_redunce.gif" alt="GA" /></p>
+
+<h3 id="rollingtorus">RollingTorus</h3>
+<p>In the dataset <em>RollingTorus</em>, we set two torus of the same size close together, and the samples in different torus belong to different classes. We let the third torus roll over at a constant speed, and the samples overlapping the first two tori will become the opposite category. <strong>If you need a dataset with unbalanced number of category samples, you can adjust the initial torus radius to achieve[6].</strong></p>
+<ul>
+  <li>
+    <p>Data distribution display:</p>
+  </li>
+  <li>
+    <p>Gradual</p>
+  </li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_gradual_rollingtorus_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Sudden</li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_sudden_rollingtorus_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Recurrent </li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_recurrent_rollingtorus_noise_and_redunce.gif" alt="GA" /></p>
+
+<ul>
+  <li>Abrupt</li>
+</ul>
+
+<p><img src="https://github.com/Samlzy/pics/raw/Samlzy-patch-1/figure_nonlinear_abrupt_rollingtorus_noise_and_redunce.gif" alt="GA" /></p>
+
+<p>For more details, please refer to the <a href="https://github.com/THUFDD/THU-Concept-Drift-Datasets"><em>Github Repository</em></a></p>
+
+
+  
+    
+      <div class="post-tags-section">
+  <i class="post-tags-icon fas fa-tags"></i>
+  <ul class="post-tags"><li>
+        <a class="post-tag" href="/tags/#dataset">dataset</a></li></ul>
+</div>
+
+  
+
+  
+</article>
+
+
+<aside class="related">
+  <h2>Related posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <a href="/2023/04/15/LiuZYC01/">
+          SAFEPROCESS-2023 [RTSA-Survey]
+          <small><time datetime="2023-04-15T00:00:00+08:00">15 Apr 2023</time></small>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/2023/04/13/XuM-01/">
+          IEEE-TIM [Ivrr-PPG]
+          <small><time datetime="2023-04-13T00:00:00+08:00">13 Apr 2023</time></small>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/2023/04/06/LiuZY05/">
+          IEEE-TITS [MTSGABL]
+          <small><time datetime="2023-04-06T00:00:00+08:00">06 Apr 2023</time></small>
+        </a>
+      </li>
+    
+  </ul>
+</aside>
+
+
+</main>
+
+<footer class="footer"><small>
+    &copy; 2019&nbsp;-&nbsp;2023 <a href="https://github.com/liuzy0708">Zeyi Liu</a>. All rights reserved.
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/vszhub/not-pure-poole">Not Pure Poole</a>.
+  </small>
+</footer>
+</div>
+      <div class="sidebar-right pure-u-1 pure-u-md-1-4">
+</div>
+    </div>
+
+    <script async src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script><script>
+  function strip(str, remove) {
+    while (str.length > 0 && remove.indexOf(str.charAt(0)) != -1) {
+      str = str.substr(1);
+    }
+    while (str.length > 0 && remove.indexOf(str.charAt(str.length - 1)) != -1) {
+      str = str.substr(0, str.length - 1);
+    }
+    return str;
+  }
+
+  function scroll() {
+    console.log('scroll');
+    window.scrollTo({
+      left: 0, 
+      top: window.innerHeight,
+      behavior: 'smooth'
+    });
+    sessionStorage.removeItem('forceCheckScroll');
+  }
+
+  const forceCheckScroll = sessionStorage.getItem('forceCheckScroll') === 'true';
+  const checkScroll = strip(window.location.pathname, '/') !== strip('', '/');
+
+  if (forceCheckScroll || checkScroll) {
+    const maxWidth = "(max-width: 48rem)";
+    const result = window.matchMedia(maxWidth);
+    if (result.matches) {
+      scroll();
+    } else {
+      result.addListener((match) => {
+        if (match.media == maxWidth) {
+          if (match.matches) {
+            scroll();
+          }
+        }
+      });
+    }
+  }
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</body>
+</html>
