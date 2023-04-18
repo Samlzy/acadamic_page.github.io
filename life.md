@@ -8,3 +8,9 @@ title: Photo Wall
 
 
 ![](/my_pics/photo_wall_1.jpeg) | ![](/my_pics/photo_wall_3.jpeg)
+
+*<font size=5><center> Graduate </center></font>*
+
+![](/my_pics/photo_wall_4.jpeg) 
+ 
+![](/my_pics/photo_wall_5.jpeg)
