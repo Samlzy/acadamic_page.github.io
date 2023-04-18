@@ -1,0 +1,60 @@
+# Setup
+title: Zeyi Liu
+description: Personal Acadamic Homepage
+url: https://github.com/liuzy0708
+avatar: /avatar.jpeg
+paginate: 5
+permalink: pretty
+cover_image: /bg.jpeg
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - scripts/
+  - not-pure-poole.gemspec
+
+# Optimize Jekyl SEO Tag
+#twitter:
+#  username: vszhub
+#  card: summary
+#logo: logo.png
+
+social:
+  name: Zeyi Liu
+  links:
+    - https://orcid.org/0000-0003-2177-8906
+    - https://scholar.google.com/citations?user=sRkvMF8AAAAJ&hl=zh-CN
+google_site_verification: xxxxx
+lang: en
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# google_analytics: UA-000000-0
+
+# Replace this value and uncomment to enable Disqus
+# disqus: xxxxxx
+
+# Specify the author for blog posts
+author:
+  name: Zeyi Liu
+  url: https://github.com/liuzy0708
+  email: liuzy21@mails.tsinghua.edu.cn

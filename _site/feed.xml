@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-18T15:51:59+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeyi Liu</title><subtitle>Personal Acadamic Homepage</subtitle><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><entry><title type="html">IEEE TCST – MCAL</title><link href="http://localhost:4000/2023/04/17/LiuZY03/" rel="alternate" type="text/html" title="IEEE TCST – MCAL" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuZY03</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuZY03/">&lt;p&gt;&lt;em&gt;Fault diagnosis of rotating machinery with limited expert interaction: a multi-criteria active learning approach based on broad learning system&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/my_pics/MCAL.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Fault diagnosis of rotating machinery with limited expert interaction: a multi-criteria active learning approach based on broad learning system&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Control Systems Technology&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Recently, research on the fault diagnosis of rotating machinery, especially for the compound or unknown cases, has drawn increasing attention. Some advanced learning-based approaches have achieved good fault diagnosis performance to some degree. However, in practical applications, how to utilize prior knowledge as fully as possible for fault diagnosis with constraints of limited expert interaction remains an open issue. In this brief, a fault diagnosis methodology of rotating machinery with limited expert interaction is proposed. With related feature extraction techniques, a novel multicriteria active learning (MCAL) query strategy is designed to select the relatively valuable samples for annotation. In addition, the broad learning system (BLS) is exploited to achieve fast incrementally updating or retrain procedures with high diagnostic accuracy in different diagnosis scenarios. Several experiments are conducted on a real-world rotating machinery fault diagnosis (RMFD) experimental platform. Compared with other existing advanced approaches, the diagnosis performance of the proposal shows high stability and flexibility. The annotation cost of experts is also significantly reduced, which makes the proposal more suitable for dealing with practical problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 5.418&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gateway of the &lt;a href=&quot;/my_pdf/LiuZY04.pdf&quot;&gt;Paper&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, J. Zhang, X. He, Q. Zhang, G. Sun, D.-H. Zhou, “Fault diagnosis of rotating machinery with limited expert interaction: A multicriteria active learning approach based on broad learning system” IEEE Transactions on Control Systems Technology, 2023, doi: 10.1109/TCST.2022.3200214.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@ARTICLE{9869794,
+  author={Liu, Zeyi and Zhang, Jingfei and He, Xiao and Zhang, Qinghua and Sun, Guoxi and Zhou, Donghua},
+  journal={IEEE Transactions on Control Systems Technology},
+  title={Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multicriteria Active Learning Approach Based on Broad Learning System},
+  year={2023},
+  volume={31},
+  number={2},
+  pages={953-960},
+  doi={10.1109/TCST.2022.3200214}}
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper" /><summary type="html">Fault diagnosis of rotating machinery with limited expert interaction: a multi-criteria active learning approach based on broad learning system</summary></entry><entry><title type="html">JiaoLong DSMS Datasets</title><link href="http://localhost:4000/2022/04/17/JiaoLong_Dataset/" rel="alternate" type="text/html" title="JiaoLong DSMS Datasets" /><published>2022-04-17T00:00:00+08:00</published><updated>2022-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2022/04/17/JiaoLong_Dataset</id><content type="html" xml:base="http://localhost:4000/2022/04/17/JiaoLong_Dataset/">&lt;p&gt;&lt;em&gt;JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/my_pics/jiaolong_fig.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The data used in this paper was collected and provided from the National Deep Sea Center in Qingdao, Shandong, China. The initial data is collected in the \(151^{st}\) exploration task for the JiaoLong DSMS on March \(19^{th}\), 2017.
+The form of data is the multi-variate time series with around 11 features for about 3 hours. The sub-system of JiaoLong DSMS such as life support system is selected to analyze. Our purpose is to assess the safety level, such as safe level and unsafe level, for the tested data stream.&lt;/p&gt;
+
+&lt;p&gt;The seven variables of the life support system represent the real-time monitoring indicators, including oxygen (\(O_2\)) concentration in the cabin, carbon dioxide (\(CO_2\)) concentration in the cabin, cabin pressure (Pa), cabin humidity, and cabin temperature (\(^\circ\)C). In addition, backup 2 and backup 3 are also considered, representing the oxygen concentration of another set of oxygen sensors and the carbon dioxide concentration of another set of carbon dioxide sensors, respectively. Two settings of oxygen and carbon dioxide sensors are set up in the cabin as a backup to monitor the oxygen and carbon dioxide concentration at any time.  Hence, the monitoring data of backup 2 and backup 3 are the values of another set of oxygen and carbon dioxide sensors. Moreover, four settings of other external monitoring variables containing salinity, temperature, depth, and speed are selected. The monitoring data is sourced from the value of the conductivity temperature depth (CTD) sensor installed outside the JiaoLong DSMS, which monitors the real-time seawater salinity, temperature, depth, and the speed of ascending and descending.&lt;/p&gt;
+
+&lt;p&gt;During the experiment, the JiaoLong DSMS gradually descended from the shore to around 3000 meters. It is worth noting that the used labels are derived from the records of real voyage logs obtained in JiaoLong DSMS. The total number of samples is \(64138\).&lt;/p&gt;
+
+&lt;p&gt;For more details, please refer to the &lt;a href=&quot;https://github.com/liuzy0708/JiaolongDSMS_datasets&quot;&gt;&lt;em&gt;Github Repository&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="data" /><summary type="html">JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)</summary></entry><entry><title type="html">IEEE TNNLS – OABL</title><link href="http://localhost:4000/2022/04/17/LiuZY04/" rel="alternate" type="text/html" title="IEEE TNNLS – OABL" /><published>2022-04-17T00:00:00+08:00</published><updated>2022-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2022/04/17/LiuZY04</id><content type="html" xml:base="http://localhost:4000/2022/04/17/LiuZY04/">&lt;p&gt;&lt;em&gt;An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/my_pics/OABL.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Neural Networks and Learning Systems&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Real-time safety assessment of the complex dynamic systems in nonstationary environments is of great significance for avoiding the potential hazards. In this case, the update procedure with high assessment accuracy and training speed is crucial and meaningful in the dynamic streaming setting. Generally, the performance of most online learning approaches will be negatively affected by limited annotated samples in such a setting. Moreover, the time cost of advanced conventional methods with retaining procedures is relatively high, constraining their practicality. In this article, a novel online active broad learning approach, termed OABL, is proposed. In detail, the effectiveness of the broad learning system in the framework of online active learning is first revealed and verified. A reasonable dynamic asymmetric query strategy is then designed with a limited annotation budget to actively annotate the relatively valuable samples, which is beneficial to mitigating the negative effects of class imbalance. In this context, the advantage of the human-in-the-loop characteristic is also effectively used to control the evolution direction of the learner during the incremental update, which makes it better able to adapt to complex and nonstationary environments. Several related experiments are conducted with the realistic data of JiaoLong deep-sea manned submersible. Results show the effectiveness and practicality of the proposal compared with the existing advanced approaches.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: In Press&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 14.255&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gateway of the &lt;a href=&quot;/my_pdf/LiuZY03.pdf&quot;&gt;Paper&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, Y. Zhang, Z. Ding, and X. He, “An Online Active Broad Learning Approach for Real-Time Safety Assessment of Dynamic Systems in Nonstationary Environments,” IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3222265.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{liu2022OABL,
+  title={An Online Active Broad Learning Approach for Real-Time Safety Assessment of Dynamic Systems in Nonstationary Environments},
+  author={Liu, Zeyi and Zhang, Yi and Ding, Zhongjun and He, Xiao},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  doi={10.1109/TNNLS.2022.3222265},
+  publisher={IEEE}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper" /><summary type="html">An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments</summary></entry><entry><title type="html">Multi-mode TEP Datasets</title><link href="http://localhost:4000/2022/04/17/Multi-mode-TEP/" rel="alternate" type="text/html" title="Multi-mode TEP Datasets" /><published>2022-04-17T00:00:00+08:00</published><updated>2022-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2022/04/17/Multi-mode-TEP</id><content type="html" xml:base="http://localhost:4000/2022/04/17/Multi-mode-TEP/">&lt;p&gt;&lt;em&gt;Multi-mode Tennessee Eastman Process Datasets&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112105115641.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The Tennessee Eastman Process (TEP) dataset is a widely used benchmark dataset in the field of chemical process control. It was originally created by the Tennessee Eastman Company as a simulated model of a chemical plant for the purpose of testing process control strategies. The dataset consists of measurements from 52 sensors and 23 control inputs, recorded over a period of 21 months, with a sampling interval of 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;The TEP dataset is considered multi-mode, meaning that it contains multiple distinct operating modes or regimes. These modes correspond to different stages of the process, each with its own set of sensor readings and control inputs. The TEP dataset is widely used for developing and testing process control algorithms, as well as for benchmarking and comparing different methods. Its multi-mode nature makes it a challenging and realistic testbed for evaluating the robustness and adaptability of process control strategies.&lt;/p&gt;
+
+&lt;p&gt;We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in &lt;em&gt;Mode1xInitial.mat&lt;/em&gt; —&lt;em&gt;Mode6xInitial.mat&lt;/em&gt;. The parameters of different modes are listed in Table I and Table II.&lt;/p&gt;
+
+&lt;center&gt; Table I: Measurements of different modes &lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112125428450.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt; Table II: Main variables of different modes &lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112125508800.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;operation&quot;&gt;Operation&lt;/h2&gt;
+
+&lt;p&gt;User can adjust parameters to achieve different modes by themselves.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Example (mode 2)&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Copy files  &lt;em&gt;Mode_1_Init.m, Mode1xInitial.mat and MultiLoop_mode1.mdl&lt;/em&gt; and rename to &lt;em&gt;Mode_2_Init.m, Mode2xInitial.mat and MultiLoop_mode2.mdl&lt;/em&gt;.&lt;/li&gt;
+      &lt;li&gt;Modify Mode1xInitial in 29 lines in &lt;em&gt;Mode_2_Init.m&lt;/em&gt; to Mode2xInitial.&lt;/li&gt;
+      &lt;li&gt;Modify Mode_1_Init to Mode_2_Init by opening  MultiLoop_mode2.mdl  and the steps as follow figures:&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112133934854.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112133904366.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Running &lt;em&gt;upda.m&lt;/em&gt; and modify as follows:&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;clear all;
+clc;
+load Mode2xInitial
+for i =1:35
+    blockName = xInitial.signals(i).blockName;
+    blockName(15) = '2';
+    xInitial.signals(i).blockName = blockName;
+end
+save ('Mode2xInitial.mat','xInitial')
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Adjust the  parameters &lt;em&gt;MultiLoop_mode2.mdl&lt;/em&gt; according to  Fig. 2 and Fig. 3. Note that the value of parameters adjusted each time should not be too large, otherwise the simulation will end quickly. And run the following code after each successful adjustment.&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;xInitial = xFinal
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;All parameters are adjusted to the final mode and run:&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;save('Mode2xInitial.mat','xInitial')
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;display&quot;&gt;Display&lt;/h2&gt;
+
+&lt;p&gt;We selected part of the measured data of some faults in mode 6 for display.&lt;/p&gt;
+
+&lt;p&gt;A
+&lt;img src=&quot;/my_pics/image-20230112143030234.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;B
+&lt;img src=&quot;/my_pics/image-20230112143054024.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;C
+&lt;img src=&quot;/my_pics/image-20230112143136774.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;D
+&lt;img src=&quot;/my_pics/image-20230112143150417.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;E
+&lt;img src=&quot;/my_pics/image-20230112143228409.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;F
+&lt;img src=&quot;/my_pics/image-20230112143248418.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;G
+&lt;img src=&quot;/my_pics/image-20230112143402757.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A-E show the results between normal data and different faults; F and G show the results between different faults.&lt;/p&gt;
+
+&lt;p&gt;For more details, please refer to the &lt;a href=&quot;https://github.com/liuzy0708/MultimodeTEP&quot;&gt;&lt;em&gt;Github Repository&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="data" /><summary type="html">Multi-mode Tennessee Eastman Process Datasets</summary></entry></feed>

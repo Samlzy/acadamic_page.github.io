@@ -1,0 +1,13 @@
+- title: Email
+  url: mailto://liuzy21@mails.tsinghua.edu.cn
+  icon: fas fa-envelope
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=sRkvMF8AAAAJ&hl=zh-CN
+  icon: fab fa-google
+- title: GitHub
+  url: https://github.com/liuzy0708
+  icon: fab fa-github
+- title: ResearchGate
+  url: https://www.researchgate.net/profile/Zeyi-Liu-3?ev=hdr_xprf
+  icon: fab fa-researchgate
+
