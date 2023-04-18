@@ -1,6 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-18T16:49:34+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeyi Liu</title><subtitle>Personal Acadamic Homepage</subtitle><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><entry><title type="html">IEEE TCST – MCAL</title><link href="http://localhost:4000/2023/04/17/LiuZY04/" rel="alternate" type="text/html" title="IEEE TCST – MCAL" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuZY04</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuZY04/">&lt;p&gt;&lt;em&gt;Fault diagnosis of rotating machinery with limited expert interaction: a multi-criteria active learning approach based on broad learning system&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-18T18:13:12+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeyi Liu</title><subtitle>Personal Acadamic Homepage</subtitle><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><entry><title type="html">IJIS (IVEM)</title><link href="http://localhost:4000/2023/04/17/LiuXiao03/" rel="alternate" type="text/html" title="IJIS (IVEM)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuXiao03</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuXiao03/">&lt;p&gt;&lt;em&gt;An Interval‐valued Exceedance Method in MCDM With Uncertain Satisfactions&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/my_pics/MCAL.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: An interval-valued exceedance method in MCDM with uncertain satisfactions&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;International Journal of Intelligent Systems&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Multicriteria decision‐making problems have been applied to many applications for its practicality. Nevertheless, when the evaluated satisfactions are more complex, such as interval‐valued distributions, how to reasonably obtain the aggregation results of alternatives is still an open issue. In this paper, an interval‐valued exceedance method is proposed to solve such a question based on the Golden Rule representative value and probabilistic exceedance method. Due to good performance of expressing uncertain information, the Golden Rule representative value method is used to order interval‐valued satisfactions after an effective normalization process. In addition, a quantifier‐based ordered weighted averaging operator is also introduced to consider the preferences of decision makers. A realistic application of supplier selection is shown to illustrate the practicality of the proposed method.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 8.993&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: C&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu and F. Xiao, &quot;An Interval‐valued Exceedance Method in MCDM With Uncertain Satisfactions,&quot; in International Journal of Intelligent Systems, vol. 34, no. 10, pp. 2676-2691, 2019, DOI: 10.1002/int.22171.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{liu2019interval,
+  title={An interval-valued exceedance method in MCDM with uncertain satisfactions},
+  author={Liu, Zeyi and Xiao, Fuyuan},
+  journal={International Journal of Intelligent Systems},
+  volume={34},
+  number={10},
+  pages={2676--2691},
+  year={2019},
+  publisher={Wiley Online Library}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">An Interval‐valued Exceedance Method in MCDM With Uncertain Satisfactions</summary></entry><entry><title type="html">APIN (LPEM)</title><link href="http://localhost:4000/2023/04/17/LiuXiao04/" rel="alternate" type="text/html" title="APIN (LPEM)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuXiao04</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuXiao04/">&lt;p&gt;&lt;em&gt;An Intuitionistic Linguistic MCDM Model Based on Probabilistic Exceedance Method and Evidence Theory&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: An intuitionistic linguistic MCDM model based on probabilistic exceedance method and evidence theory&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;Applied Intelligence&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The optimization in multi-criteria decision making under uncertain conditions has attracted more and more scholars in recent years. However, it is still an open issue that how to better evaluate the satisfaction with more complex objects. Since the great performance of intuitionistic fuzzy set on handling the uncertain information, in this paper, a new fuzzy linguistic model for non-scalar criteria satisfaction expressed via intuitionistic fuzzy sets is proposed, which makes experts evaluate more objectively. Moreover, a corresponding aggregation approach based on the Choquet probabilistic exceedance method is also proposed. After a series of calculation processes, the final aggregated results embodied by intuitionistic fuzzy sets (IFSs) can be obtained. Then by converting them into the belief intervals, the best alternative can be selected more objectively. In addition, two real-life applications are shown to demonstrate the practicality of proposed method.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 5.019&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: C&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu and F. Xiao, &quot;An Intuitionistic Linguistic MCDM Model Based on Probabilistic Exceedance Method and Evidence Theory,&quot; in Applied Intelligence, vol. 50, no. 6, pp. 1979-1995, 2020, 10.1007/s10489-020-01638-y.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{liu2020intuitionistic,
+  title={An intuitionistic linguistic MCDM model based on probabilistic exceedance method and evidence theory},
+  author={Liu, Zeyi and Xiao, Fuyuan},
+  journal={Applied Intelligence},
+  volume={50},
+  number={6},
+  pages={1979--1995},
+  year={2020},
+  publisher={Springer}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">An Intuitionistic Linguistic MCDM Model Based on Probabilistic Exceedance Method and Evidence Theory</summary></entry><entry><title type="html">IEEE-TSMCA (GRV)</title><link href="http://localhost:4000/2023/04/17/LiuXiao05/" rel="alternate" type="text/html" title="IEEE-TSMCA (GRV)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuXiao05</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuXiao05/">&lt;p&gt;&lt;em&gt;A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: A generalized golden rule representative value for multiple-criteria decision analysis&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics: Systems&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Multicriteria decision analysis evaluates multiple conflicting criteria in decision making, but conflicting criteria are typical in evaluating options. As the existing ordering operations involved in multicriteria decision making cannot easily be implemented with intervals, we assume that scalar representative values with intervals can effectively avoid this issue. To deal with interval-valued criteria, we propose a generalized golden rule representative value approach, which involves the sigmoid function of backpropagation neural networks to tune parameters. Our approach considers the uncertainties and side effects of the interval variables to improve individual scalar representative values. Based on numerical examples, we address the effectiveness of the proposed approach, and we provide a specific application concerning multicriteria decision making with interval criteria satisfaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 11.471&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, F. Xiao, C. -T. Lin, B. H. Kang and Z. Cao, &quot;A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis,&quot; in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 51, no. 5, pp. 3193-3204, May 2021, doi: 10.1109/TSMC.2019.2919243.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@ARTICLE{8734878,
+  author={Liu, Zeyi and Xiao, Fuyuan and Lin, Chin-Teng and Kang, Byeong Ho and Cao, Zehong},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis}, 
+  year={2021},
+  volume={51},
+  number={5},
+  pages={3193-3204},
+  doi={10.1109/TSMC.2019.2919243}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis</summary></entry><entry><title type="html">INS (DMCDM)</title><link href="http://localhost:4000/2023/04/17/LiuCai01/" rel="alternate" type="text/html" title="INS (DMCDM)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuCai01</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuCai01/">&lt;p&gt;&lt;em&gt;A Dynamic Group MCDM Model With Intuitionistic Fuzzy Set: Perspective of Alternative Queuing Method&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Network-based evidential three-way theoretic model for large-scale group decision analysis&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;Information Sciences&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Dynamic multi-criteria decision making (DMCDM) is prevalent in real life, where the evaluations are given sequentially across time and earlier evaluations will influence later ones. Moreover, alternatives and criteria are allowed to vary with time. However, on the one hand, such dynamic change is rarely considered under the situation of group decision making. On the other hand, recent DMCDM methods just aggregate the evaluations from different periods, which can not accurately reflect the relative relation between alternatives due to constant change of alternatives and criteria. Motivated by these cases, we provide an insight with alternative queuing method (AQM) and intuitionistic fuzzy set (IFS) into dynamic group MCDM (DGMCDM), which ranks the alternatives based on preference relation. In the proposed model, we generate current weights of decision makers (DMs) by introducing induced ordered weighted averaging (IOWA) operatorwhich acts as a link among the weights collected across time. Moreover, we extend classical AQM by using fuzzy preference relation (FPR) instead of 0–1 preference relationship in paired comparison between alternatives. Additionally, a feedback mechanism is defined within the framework of extended AQM, where later FPRs will be influenced by the earlier ones as well as carried to the next period. Our method is of great effectiveness and flexibility with complicated and changeable environment, which has been demonstrated in the field of supplier selection undergoing three periods. Furthermore, we make a comparative analysis of the method with classical AQM and static MCDM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 8.233&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;R. Tao, Z. Liu, R, Cai and K.-H. Cheong, &quot;A Dynamic Group MCDM Model With Intuitionistic Fuzzy Set: Perspective of Alternative Queuing Method&quot;, in Information Sciences, vol. 555, pp. 85-103, 2021, doi: 10.1016/j.ins.2020.12.033.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{tao2021dynamic,
+  title={A dynamic group MCDM model with intuitionistic fuzzy set: Perspective of alternative queuing method},
+  author={Tao, Ran and Liu, Zeyi and Cai, Rui and Cheong, Kang Hao},
+  journal={Information Sciences},
+  volume={555},
+  pages={85--103},
+  year={2021},
+  publisher={Elsevier}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-2" /><summary type="html">A Dynamic Group MCDM Model With Intuitionistic Fuzzy Set: Perspective of Alternative Queuing Method</summary></entry><entry><title type="html">IEEE-TFS (PCFP)</title><link href="http://localhost:4000/2023/04/17/LiuD01/" rel="alternate" type="text/html" title="IEEE-TFS (PCFP)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuD01</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuD01/">&lt;p&gt;&lt;em&gt;Measure-Based Group Decision-Making With Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Measure-based group decision making with principle-guided social interaction influence for incomplete information: a game theoretic perspective&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Fuzzy Systems&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The consideration of social influence in solving group decision-making (GDM) problems has caused widespread concern in recent years. In most cases, the interaction of experts and the association efforts of alternatives are often not to be ignored in the actual decision-making environment, especially for those situations with incomplete information in the process of opinion changes. In this study, a novel measure-based GDM model is proposed to more comprehensively consider such a factor. Also, a positive cooperation-first principle is proposed as a guide for situations with incomplete information. One of the main advantages of the proposed model is that the estimation of missing fuzzy preference relations is completed according to the modeling results of peer interactions, which makes the preference evolution results more reliable. With the utilization of the fuzzy measure framework, the Shapley function and interaction indicator, originated from the cooperative game theory, are also introduced to extract the interaction features. After several iterations, the global opinion can be eventually obtained via the social influence network technique. Furthermore, it is also demonstrated that the evolution of individual opinions converges to the ultimate collective opinion. A case study of supplier selection with the proposed model is implemented to illustrate its practicality and effectiveness. Related comparisons and discussion regarding related methods are also mentioned.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 12.253&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, Y. Deng and R. R. Yager, &quot;Measure-Based Group Decision-Making With Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective&quot; in IEEE Transactions on Fuzzy Systems, vol. 30, no. 4, pp. 1149-1163, April 2022, doi: 10.1109/TFUZZ.2021.3053324.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@ARTICLE{9330576,
+  author={Liu, Zeyi and Deng, Yong and Yager, Ronald R.},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Measure-Based Group Decision-Making With Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective}, 
+  year={2022},
+  volume={30},
+  number={4},
+  pages={1149-1163},
+  doi={10.1109/TFUZZ.2021.3053324}}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">Measure-Based Group Decision-Making With Principle-Guided Social Interaction Influence for Incomplete Information: A Game Theoretic Perspective</summary></entry><entry><title type="html">IEEE-TCST (MCAL)</title><link href="http://localhost:4000/2023/04/17/LiuZY04/" rel="alternate" type="text/html" title="IEEE-TCST (MCAL)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuZY04</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuZY04/">&lt;p&gt;&lt;em&gt;Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multi-criteria Active Learning Approach Based on Broad Learning System&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
@@ -18,8 +185,6 @@
 
 &lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Gateway of the &lt;a href=&quot;/my_pdf/LiuZY04.pdf&quot;&gt;Paper&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
 &lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, J. Zhang, X. He, Q. Zhang, G. Sun, D.-H. Zhou, “Fault diagnosis of rotating machinery with limited expert interaction: A multicriteria active learning approach based on broad learning system” IEEE Transactions on Control Systems Technology, 2023, doi: 10.1109/TCST.2022.3200214.
@@ -35,153 +200,129 @@
   pages={953-960},
   doi={10.1109/TCST.2022.3200214}}
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper" /><summary type="html">Fault diagnosis of rotating machinery with limited expert interaction: a multi-criteria active learning approach based on broad learning system</summary></entry><entry><title type="html">JiaoLong DSMS Datasets</title><link href="http://localhost:4000/2022/04/17/JiaoLong_Dataset/" rel="alternate" type="text/html" title="JiaoLong DSMS Datasets" /><published>2022-04-17T00:00:00+08:00</published><updated>2022-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2022/04/17/JiaoLong_Dataset</id><content type="html" xml:base="http://localhost:4000/2022/04/17/JiaoLong_Dataset/">&lt;p&gt;&lt;em&gt;JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/my_pics/jiaolong_fig.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multi-criteria Active Learning Approach Based on Broad Learning System</summary></entry><entry><title type="html">INS (LSGDM)</title><link href="http://localhost:4000/2023/04/17/LiuD02/" rel="alternate" type="text/html" title="INS (LSGDM)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuD02</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuD02/">&lt;p&gt;&lt;em&gt;Network-Based Evidential Three-Way Theoretic Model for Large-Scale Group Decision Analysis&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
-&lt;p&gt;The data used in this paper was collected and provided from the National Deep Sea Center in Qingdao, Shandong, China. The initial data is collected in the \(151^{st}\) exploration task for the JiaoLong DSMS on March \(19^{th}\), 2017.
-The form of data is the multi-variate time series with around 11 features for about 3 hours. The sub-system of JiaoLong DSMS such as life support system is selected to analyze. Our purpose is to assess the safety level, such as safe level and unsafe level, for the tested data stream.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Network-based evidential three-way theoretic model for large-scale group decision analysis&lt;/p&gt;
 
-&lt;p&gt;The seven variables of the life support system represent the real-time monitoring indicators, including oxygen (\(O_2\)) concentration in the cabin, carbon dioxide (\(CO_2\)) concentration in the cabin, cabin pressure (Pa), cabin humidity, and cabin temperature (\(^\circ\)C). In addition, backup 2 and backup 3 are also considered, representing the oxygen concentration of another set of oxygen sensors and the carbon dioxide concentration of another set of carbon dioxide sensors, respectively. Two settings of oxygen and carbon dioxide sensors are set up in the cabin as a backup to monitor the oxygen and carbon dioxide concentration at any time.  Hence, the monitoring data of backup 2 and backup 3 are the values of another set of oxygen and carbon dioxide sensors. Moreover, four settings of other external monitoring variables containing salinity, temperature, depth, and speed are selected. The monitoring data is sourced from the value of the conductivity temperature depth (CTD) sensor installed outside the JiaoLong DSMS, which monitors the real-time seawater salinity, temperature, depth, and the speed of ascending and descending.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;Information Sciences&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;During the experiment, the JiaoLong DSMS gradually descended from the shore to around 3000 meters. It is worth noting that the used labels are derived from the records of real voyage logs obtained in JiaoLong DSMS. The total number of samples is \(64138\).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Social relationships are critical to the group decision-making (GDM) process, especially for large-scale scenarios. Conventional GDM models have several drawbacks when applied to large-scale GDM problems. In this paper, we propose an evidential three-way theoretic model for large-scale group decision analysis based on the introduction of ego networks. A similarity matrix of all individuals is obtained after ego network generation via social network feature extraction. Rough and smooth detection are then conducted in the framework of three-way decisions. Specifically, the degree of organizational influence is analyzed based on the generated basic probability assignments (BPAs), and the individuals are divided into several organizations. After an opinion collection process, preference evolution is implemented via a social influence network (SIN) technique and a fuzzy preference relation (FPR) model. Then, the global final scores of all the alternatives are obtained using an aggregation process. Finally, we conduct a simulation experiment to illustrate the entire procedure. Based on a comparison of related methods, we believe that the proposed method can reasonably solve real-world large-scale group decision-making (LSGDM) problems and has good practicability and effectiveness.&lt;/p&gt;
 
-&lt;p&gt;For more details, please refer to the &lt;a href=&quot;https://github.com/liuzy0708/JiaolongDSMS_datasets&quot;&gt;&lt;em&gt;Github Repository&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="data" /><summary type="html">JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)</summary></entry><entry><title type="html">IEEE TNNLS – OABL</title><link href="http://localhost:4000/" rel="alternate" type="text/html" title="IEEE TNNLS – OABL" /><published>2022-04-17T00:00:00+08:00</published><updated>2022-04-17T00:00:00+08:00</updated><id>http://localhost:4000/LiuZY03</id><content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;em&gt;An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/OABL.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;./post_pics/OABL.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/OABL.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/my_pics/OABL.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 8.233&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, H, Xiao and Y. Deng, &quot;Network-Based Evidential Three-Way Theoretic Model for Large-Scale Group Decision Analysis&quot;, in Information Sciences, vol. 547, pp. 689-709, 2021, doi: 10.1016/j.ins.2020.08.042.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{liu2021network,
+  title={Network-based evidential three-way theoretic model for large-scale group decision analysis},
+  author={Liu, Zeyi and He, Xiao and Deng, Yong},
+  journal={Information Sciences},
+  volume={547},
+  pages={689--709},
+  year={2021},
+  publisher={Elsevier}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">Network-Based Evidential Three-Way Theoretic Model for Large-Scale Group Decision Analysis</summary></entry><entry><title type="html">EAI-SCUBE (CADM)</title><link href="http://localhost:4000/2023/04/17/HuS01/" rel="alternate" type="text/html" title="EAI-SCUBE (CADM)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/HuS01</id><content type="html" xml:base="http://localhost:4000/2023/04/17/HuS01/">&lt;p&gt;&lt;em&gt;CADM: Confusion Model-based Detection Method for Real-drift in Chunk Data Stream&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Confusion model for real-drift detection in chunk data streams&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Neural Networks and Learning Systems&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conference&lt;/strong&gt;: &lt;em&gt;Proceedings of 13th EAI International Conference on Sensor Systems and Software&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Real-time safety assessment of the complex dynamic systems in nonstationary environments is of great significance for avoiding the potential hazards. In this case, the update procedure with high assessment accuracy and training speed is crucial and meaningful in the dynamic streaming setting. Generally, the performance of most online learning approaches will be negatively affected by limited annotated samples in such a setting. Moreover, the time cost of advanced conventional methods with retaining procedures is relatively high, constraining their practicality. In this article, a novel online active broad learning approach, termed OABL, is proposed. In detail, the effectiveness of the broad learning system in the framework of online active learning is first revealed and verified. A reasonable dynamic asymmetric query strategy is then designed with a limited annotation budget to actively annotate the relatively valuable samples, which is beneficial to mitigating the negative effects of class imbalance. In this context, the advantage of the human-in-the-loop characteristic is also effectively used to control the evolution direction of the learner during the incremental update, which makes it better able to adapt to complex and nonstationary environments. Several related experiments are conducted with the realistic data of JiaoLong deep-sea manned submersible. Results show the effectiveness and practicality of the proposal compared with the existing advanced approaches.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Concept drift detection has attracted considerable attention due to its importance in many real-world applications such as health monitoring and fault diagnosis. Conventionally, most advanced approaches will be of poor performance when the evaluation criteria of the environment has changed (i.e. concept drift), either can only detect and adapt to virtual drift. In this paper, we propose a new approach to detect real-drift in the chunk data stream with limited annotations based on concept confusion. When a new data chunk arrives, we use both real labels and pseudo labels to update the model after prediction and drift detection. In this context, the model will be confused and yields prediction difference once drift occurs. We then adopt cosine similarity to measure the difference. And an adaptive threshold method is proposed to find the abnormal value. Experiments show that our method has a low false alarm rate and false negative rate with the utilization of different classifiers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Accepted&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Compendex&lt;/strong&gt;: EI Compendex&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, H, Xiao and Y. Deng, &quot;Network-Based Evidential Three-Way Theoretic Model for Large-Scale Group Decision Analysis&quot;, in Information Sciences, vol. 547, pp. 689-709, 2021, doi: 10.1016/j.ins.2020.08.042.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{liu2021network,
+  title={Network-based evidential three-way theoretic model for large-scale group decision analysis},
+  author={Liu, Zeyi and He, Xiao and Deng, Yong},
+  journal={Information Sciences},
+  volume={547},
+  pages={689--709},
+  year={2021},
+  publisher={Elsevier}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-2" /><summary type="html">CADM: Confusion Model-based Detection Method for Real-drift in Chunk Data Stream</summary></entry><entry><title type="html">Entropy (FMEA)</title><link href="http://localhost:4000/2023/04/17/LiuXiao02/" rel="alternate" type="text/html" title="Entropy (FMEA)" /><published>2023-04-17T00:00:00+08:00</published><updated>2023-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/17/LiuXiao02</id><content type="html" xml:base="http://localhost:4000/2023/04/17/LiuXiao02/">&lt;p&gt;&lt;em&gt;An Intuitionistic Evidential Method for Weight Determination in FMEA Based on Belief Entropy&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: An intuitionistic evidential method for weight determination in FMEA based on belief entropy&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;Entropy&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Failure Mode and Effects Analysis (FMEA) has been regarded as an effective analysis approach to identify and rank the potential failure modes in many applications. However, how to determine the weights of team members appropriately, with the impact factor of domain experts’ uncertainty in decision-making of FMEA, is still an open issue. In this paper, a new method to determine the weights of team members, which combines evidence theory, intuitionistic fuzzy sets (IFSs) and belief entropy, is proposed to analyze the failure modes. One of the advantages of the presented model is that the uncertainty of experts in the decision-making process is taken into consideration. The proposed method is data driven with objective and reasonable properties, which considers the risk of weights more completely. A numerical example is shown to illustrate the feasibility and availability of the proposed method.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 2.738&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu and F. Xiao, &quot;An Intuitionistic Evidential Method for Weight Determination in FMEA Based on Belief Entropy,&quot; in Entropy, vol. 21, no. 2, pp. 211, 2019, doi:10.3390/e21020211.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{liu2019intuitionistic,
+  title={An intuitionistic evidential method for weight determination in FMEA based on belief entropy},
+  author={Liu, Zeyi and Xiao, Fuyuan},
+  journal={Entropy},
+  volume={21},
+  number={2},
+  pages={211},
+  year={2019},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">An Intuitionistic Evidential Method for Weight Determination in FMEA Based on Belief Entropy</summary></entry><entry><title type="html">IEEE-TITS (MTSGABL)</title><link href="http://localhost:4000/2023/01/01/LiuZY05/" rel="alternate" type="text/html" title="IEEE-TITS (MTSGABL)" /><published>2023-01-01T00:00:00+08:00</published><updated>2023-01-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/01/LiuZY05</id><content type="html" xml:base="http://localhost:4000/2023/01/01/LiuZY05/">&lt;p&gt;&lt;em&gt;Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Real-time safety assessment for dynamic systems with limited memory and annotations&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Real-time safety assessment of dynamic systems has recently received increasing attention. However, the performance of existing advanced approaches is often negatively affected by realistic requirements such as limited annotations and memory. In this case, how to design reasonable query strategies to select valuable instances and exploit the memory space efficiently is extremely meaningful. This paper proposes a novel memory-triggered submodularity-guided active broad learning approach, termed MTSGABL, to deal with such issues simultaneously. Specifically, the broad learning system is introduced as the basic assessment model to update incrementally. A memory-triggered learning mechanism is then proposed based on the drift detection procedure, which controls the update process to exploit the latest sequential information. Furthermore, a submodularity-guided query strategy is introduced to select a small number of valuable samples sequentially, which is beneficial to alleviate the negative effects of the imbalanced data stream. Numerous comparison and ablation experiments with the realistic JiaoLong deep-sea manned submersible data are conducted to validate its effectiveness. Results show that the proposed approach is superior to the existing typical approaches subject to these constraints.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: In Press&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 14.255&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 9.551&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Gateway of the &lt;a href=&quot;/my_pdf/LiuZY03.pdf&quot;&gt;Paper&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
 &lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, Y. Zhang, Z. Ding, and X. He, “An Online Active Broad Learning Approach for Real-Time Safety Assessment of Dynamic Systems in Nonstationary Environments,” IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3222265.
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu and X. He, “Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations,” IEEE Transactions on Intelligent Transportation Systems, 2023, doi: 10.1109/TITS.2023.3266256.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{liu2022OABL,
-  title={An Online Active Broad Learning Approach for Real-Time Safety Assessment of Dynamic Systems in Nonstationary Environments},
-  author={Liu, Zeyi and Zhang, Yi and Ding, Zhongjun and He, Xiao},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2022},
-  doi={10.1109/TNNLS.2022.3222265},
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{liu2023TITS,
+  title={Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations},
+  author={Liu, Zeyi and He, Xiao},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2023},
+  doi={10.1109/TITS.2023.3266256},
   publisher={IEEE}
 }
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper" /><summary type="html">An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments</summary></entry><entry><title type="html">Multi-mode TEP Datasets</title><link href="http://localhost:4000/2022/04/17/Multi-mode-TEP/" rel="alternate" type="text/html" title="Multi-mode TEP Datasets" /><published>2022-04-17T00:00:00+08:00</published><updated>2022-04-17T00:00:00+08:00</updated><id>http://localhost:4000/2022/04/17/Multi-mode-TEP</id><content type="html" xml:base="http://localhost:4000/2022/04/17/Multi-mode-TEP/">&lt;p&gt;&lt;em&gt;Multi-mode Tennessee Eastman Process Datasets&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112105115641.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The Tennessee Eastman Process (TEP) dataset is a widely used benchmark dataset in the field of chemical process control. It was originally created by the Tennessee Eastman Company as a simulated model of a chemical plant for the purpose of testing process control strategies. The dataset consists of measurements from 52 sensors and 23 control inputs, recorded over a period of 21 months, with a sampling interval of 5 minutes.&lt;/p&gt;
-
-&lt;p&gt;The TEP dataset is considered multi-mode, meaning that it contains multiple distinct operating modes or regimes. These modes correspond to different stages of the process, each with its own set of sensor readings and control inputs. The TEP dataset is widely used for developing and testing process control algorithms, as well as for benchmarking and comparing different methods. Its multi-mode nature makes it a challenging and realistic testbed for evaluating the robustness and adaptability of process control strategies.&lt;/p&gt;
-
-&lt;p&gt;We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in &lt;em&gt;Mode1xInitial.mat&lt;/em&gt; —&lt;em&gt;Mode6xInitial.mat&lt;/em&gt;. The parameters of different modes are listed in Table I and Table II.&lt;/p&gt;
-
-&lt;center&gt; Table I: Measurements of different modes &lt;/center&gt;
-
-&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112125428450.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;center&gt; Table II: Main variables of different modes &lt;/center&gt;
-
-&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112125508800.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;operation&quot;&gt;Operation&lt;/h2&gt;
-
-&lt;p&gt;User can adjust parameters to achieve different modes by themselves.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Example (mode 2)&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Copy files  &lt;em&gt;Mode_1_Init.m, Mode1xInitial.mat and MultiLoop_mode1.mdl&lt;/em&gt; and rename to &lt;em&gt;Mode_2_Init.m, Mode2xInitial.mat and MultiLoop_mode2.mdl&lt;/em&gt;.&lt;/li&gt;
-      &lt;li&gt;Modify Mode1xInitial in 29 lines in &lt;em&gt;Mode_2_Init.m&lt;/em&gt; to Mode2xInitial.&lt;/li&gt;
-      &lt;li&gt;Modify Mode_1_Init to Mode_2_Init by opening  MultiLoop_mode2.mdl  and the steps as follow figures:&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112133934854.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/my_pics/image-20230112133904366.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Running &lt;em&gt;upda.m&lt;/em&gt; and modify as follows:&lt;/p&gt;
-
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;clear all;
-clc;
-load Mode2xInitial
-for i =1:35
-    blockName = xInitial.signals(i).blockName;
-    blockName(15) = '2';
-    xInitial.signals(i).blockName = blockName;
-end
-save ('Mode2xInitial.mat','xInitial')
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Adjust the  parameters &lt;em&gt;MultiLoop_mode2.mdl&lt;/em&gt; according to  Fig. 2 and Fig. 3. Note that the value of parameters adjusted each time should not be too large, otherwise the simulation will end quickly. And run the following code after each successful adjustment.&lt;/p&gt;
-
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;xInitial = xFinal
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;All parameters are adjusted to the final mode and run:&lt;/p&gt;
-
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;save('Mode2xInitial.mat','xInitial')
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;display&quot;&gt;Display&lt;/h2&gt;
-
-&lt;p&gt;We selected part of the measured data of some faults in mode 6 for display.&lt;/p&gt;
-
-&lt;p&gt;A
-&lt;img src=&quot;/my_pics/image-20230112143030234.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;B
-&lt;img src=&quot;/my_pics/image-20230112143054024.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;C
-&lt;img src=&quot;/my_pics/image-20230112143136774.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;D
-&lt;img src=&quot;/my_pics/image-20230112143150417.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;E
-&lt;img src=&quot;/my_pics/image-20230112143228409.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;F
-&lt;img src=&quot;/my_pics/image-20230112143248418.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;G
-&lt;img src=&quot;/my_pics/image-20230112143402757.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A-E show the results between normal data and different faults; F and G show the results between different faults.&lt;/p&gt;
-
-&lt;p&gt;For more details, please refer to the &lt;a href=&quot;https://github.com/liuzy0708/MultimodeTEP&quot;&gt;&lt;em&gt;Github Repository&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="data" /><summary type="html">Multi-mode Tennessee Eastman Process Datasets</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations</summary></entry></feed>

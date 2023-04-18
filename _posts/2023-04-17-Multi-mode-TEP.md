@@ -1,14 +1,12 @@
 ---
 layout: post
 title: Multi-mode TEP Datasets
-tags: data
+tags: dataset
 math: true
 date: 2022-4-17 00:00 +0800
 ---
 
 *Multi-mode Tennessee Eastman Process Datasets*
-
-![](/my_pics/image-20230112105115641.jpeg)
 
 ## Description
 
@@ -18,15 +16,6 @@ The TEP dataset is considered multi-mode, meaning that it contains multiple dist
 
 We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in *Mode1xInitial.mat* —*Mode6xInitial.mat*. The parameters of different modes are listed in Table I and Table II.
 
-<center> Table I: Measurements of different modes </center>
-
-![](/my_pics/image-20230112125428450.jpeg)
-
-<center> Table II: Main variables of different modes </center>
-
-![](/my_pics/image-20230112125508800.jpeg)
-
-
 ## Operation
 
 User can adjust parameters to achieve different modes by themselves.
@@ -35,12 +24,7 @@ User can adjust parameters to achieve different modes by themselves.
 
   1. Copy files  *Mode_1_Init.m, Mode1xInitial.mat and MultiLoop_mode1.mdl* and rename to *Mode_2_Init.m, Mode2xInitial.mat and MultiLoop_mode2.mdl*.
   2. Modify Mode1xInitial in 29 lines in *Mode_2_Init.m* to Mode2xInitial.
-  3. Modify Mode_1_Init to Mode_2_Init by opening  MultiLoop_mode2.mdl  and the steps as follow figures:
-
-![](/my_pics/image-20230112133934854.jpeg)
-
-![](/my_pics/image-20230112133904366.jpeg)
-
+  3. Modify Mode_1_Init to Mode_2_Init by opening MultiLoop_mode2.mdl.
   4. Running *upda.m* and modify as follows:
 
      ```
@@ -66,32 +50,5 @@ User can adjust parameters to achieve different modes by themselves.
      ```
      save('Mode2xInitial.mat','xInitial')
      ```
-
-## Display
-
-We selected part of the measured data of some faults in mode 6 for display.
-
-A
-![](/my_pics/image-20230112143030234.jpeg)
-
-B
-![](/my_pics/image-20230112143054024.jpeg)
-
-C
-![](/my_pics/image-20230112143136774.jpeg)
-
-D
-![](/my_pics/image-20230112143150417.jpeg)
-
-E
-![](/my_pics/image-20230112143228409.jpeg)
-
-F
-![](/my_pics/image-20230112143248418.jpeg)
-
-G
-![](/my_pics/image-20230112143402757.jpeg)
-
-A-E show the results between normal data and different faults; F and G show the results between different faults.
 
 For more details, please refer to the [*Github Repository*](https://github.com/liuzy0708/MultimodeTEP)

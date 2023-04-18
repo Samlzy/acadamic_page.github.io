@@ -7,21 +7,21 @@
   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
   <link rel="stylesheet" href="/assets/styles.css"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>JiaoLong DSMS Datasets | Zeyi Liu</title>
+<title>Concept Drift Datasets | Zeyi Liu</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="JiaoLong DSMS Datasets" />
+<meta property="og:title" content="Concept Drift Datasets" />
 <meta name="author" content="Zeyi Liu" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)" />
-<meta property="og:description" content="JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)" />
-<link rel="canonical" href="http://localhost:4000/2022/04/17/JiaoLong_Dataset/" />
-<meta property="og:url" content="http://localhost:4000/2022/04/17/JiaoLong_Dataset/" />
+<meta name="description" content="Simulted Concept Drift Datasets" />
+<meta property="og:description" content="Simulted Concept Drift Datasets" />
+<link rel="canonical" href="http://localhost:4000/2022/04/17/ConceptDrift_Dataset/" />
+<meta property="og:url" content="http://localhost:4000/2022/04/17/ConceptDrift_Dataset/" />
 <meta property="og:site_name" content="Zeyi Liu" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2022-04-17T00:00:00+08:00" />
 <meta name="google-site-verification" content="xxxxx" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/2022/04/17/JiaoLong_Dataset/","headline":"JiaoLong DSMS Datasets","dateModified":"2022-04-17T00:00:00+08:00","datePublished":"2022-04-17T00:00:00+08:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2022/04/17/JiaoLong_Dataset/"},"author":{"@type":"Person","name":"Zeyi Liu"},"description":"JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)","@type":"BlogPosting","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/2022/04/17/ConceptDrift_Dataset/","headline":"Concept Drift Datasets","dateModified":"2022-04-17T00:00:00+08:00","datePublished":"2022-04-17T00:00:00+08:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2022/04/17/ConceptDrift_Dataset/"},"author":{"@type":"Person","name":"Zeyi Liu"},"description":"Simulted Concept Drift Datasets","@type":"BlogPosting","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Zeyi Liu" />
 </head>
@@ -77,21 +77,49 @@
 
       <div class="content pure-u-1 pure-u-md-1-2"><main>
   <article class="post">
-  <h1 class="post-title">JiaoLong DSMS Datasets</h1>
+  <h1 class="post-title">Concept Drift Datasets</h1>
   <div class="post-meta"><time datetime="2022-04-17T00:00:00+08:00" itemprop="datePublished">17 Apr 2022</time></div>
 
-  <p><em>JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)</em></p>
+  <p><em>Simulted Concept Drift Datasets</em></p>
 
 <h2 id="description">Description</h2>
 
-<p>The data used in this paper was collected and provided from the National Deep Sea Center in Qingdao, Shandong, China. The initial data is collected in the \(151^{st}\) exploration task for the JiaoLong DSMS on March \(19^{th}\), 2017.
-The form of data is the multi-variate time series with around 11 features for about 3 hours. The sub-system of JiaoLong DSMS such as life support system is selected to analyze. Our purpose is to assess the safety level, such as safe level and unsafe level, for the tested data stream.</p>
+<p>Concept drift describes unforeseeable changes in the underlying distribution of streaming data over time. Concept drift problem exists in many real-world situations, such as sensor drift and the change of operating mode. Detecting concept drift timely and accurately is of great significance for judging system state and providing decision suggestions. In order to better test and evaluate the performance of concept drift detection algorithm, we have made some datasets with known drift types and drift time points, hoping to help the development of concept drift detection.</p>
 
-<p>The seven variables of the life support system represent the real-time monitoring indicators, including oxygen (\(O_2\)) concentration in the cabin, carbon dioxide (\(CO_2\)) concentration in the cabin, cabin pressure (Pa), cabin humidity, and cabin temperature (\(^\circ\)C). In addition, backup 2 and backup 3 are also considered, representing the oxygen concentration of another set of oxygen sensors and the carbon dioxide concentration of another set of carbon dioxide sensors, respectively. Two settings of oxygen and carbon dioxide sensors are set up in the cabin as a backup to monitor the oxygen and carbon dioxide concentration at any time.  Hence, the monitoring data of backup 2 and backup 3 are the values of another set of oxygen and carbon dioxide sensors. Moreover, four settings of other external monitoring variables containing salinity, temperature, depth, and speed are selected. The monitoring data is sourced from the value of the conductivity temperature depth (CTD) sensor installed outside the JiaoLong DSMS, which monitors the real-time seawater salinity, temperature, depth, and the speed of ascending and descending.</p>
+<h2 id="usage">Usage</h2>
+<ul>
+  <li>If you want to use the datasets in the project, you can download them directly and import them using the pandas library.</li>
+  <li>Example:</li>
+</ul>
 
-<p>During the experiment, the JiaoLong DSMS gradually descended from the shore to around 3000 meters. It is worth noting that the used labels are derived from the records of real voyage logs obtained in JiaoLong DSMS. The total number of samples is \(64138\).</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import pandas as pd
 
-<p>For more details, please refer to the <a href="https://github.com/liuzy0708/JiaolongDSMS_datasets"><em>Github Repository</em></a></p>
+data = pd.read_csv('xxxxxx/nonlinear_gradual_chocolaterotation_noise_and_redunce.csv')
+
+data = data.values 
+
+X = data[:, 0 : 5] 
+
+Y = data[:, 5] 
+</code></pre></div></div>
+
+<ul>
+  <li>If you want to regenerate the dataset and import it directly, you can download <em>DataStreamGenerator.py</em> and put it under the file where your code is located, and then import the class.</li>
+  <li>Example:</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from DataStreamGenerator import DataStreamGenerator
+
+C = DataStreamGenerator(class_count=2, attribute_count=2, sample_count=100000, noise=True, redunce_variable=True)
+
+X, Y = C.Nonlinear_Sudden_RollingTorus(plot=True, save=True)
+</code></pre></div></div>
+
+<ul>
+  <li>If you want to modify the source code, you can download it and do it in <em>DataStreamGenerator.py</em>.</li>
+</ul>
+
+<p>For more details, please refer to the <a href="https://github.com/THUFDD/THU-Concept-Drift-Datasets"><em>Github Repository</em></a></p>
 
 
   

@@ -1,14 +1,12 @@
 ---
 layout: post
 title: JiaoLong DSMS Datasets
-tags: data
+tags: dataset
 math: true
 date: 2022-4-17 00:00 +0800
 ---
 
 *JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)*
-
-![](/my_pics/jiaolong_fig.jpeg)
 
 ## Description
 
