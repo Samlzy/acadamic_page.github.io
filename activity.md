@@ -48,8 +48,8 @@ title: Activities
 
 &nbsp;
 
-**<center> Research Stats (by 2023.4.18)</center>**
+**<center> Research Stats (by 2023.4.23)</center>**
 
-* Google Citation: 164 
+* Google Citation: 170
 * H-index: 7 
 * i10-index: 6
