@@ -15,7 +15,7 @@ title: Honors
 
 &nbsp;
 
-**<center> Awards </center>**
+**<center> Main Awards </center>**
 * *Outstanding Graduates* of Southwest University (2021)
 * 2019-2020 Academic Year *Outstanding Student Model* of Southwest University (2020)
 * *Merit Student Award*, *Academic Technology Award*, *Innovation and Entrepreneurship Award* of Southwest University (2020)
