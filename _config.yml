@@ -1,11 +1,11 @@
 # Setup
 title: Zeyi Liu
 description: Personal Acadamic Homepage
-url: https://github.com/liuzy0708
+url: http://liuzy0708.com
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg_hall.jpeg
 
 # Gems
 plugins:
