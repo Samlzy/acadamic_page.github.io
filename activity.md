@@ -50,6 +50,6 @@ title: Activities
 
 **<center> Research Stats (by 2023.5.3)</center>**
 
-* Google Citation: 178
-* H-index: 7 
+* Google Citation: 183
+* H-index: 8 
 * i10-index: 7
