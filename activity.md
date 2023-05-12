@@ -45,11 +45,10 @@ title: Activities
 * *International Joint Conference on Neural Network* (IJCNN) 
 * *Chinese Control Conference* (CCC)
 * *China Automation Congress* (CAC)
+* *Chinese Process Control Conference* (CPCC)
 
-&nbsp;
+**<center> Research Stats (by 2023.5.12)</center>**
 
-**<center> Research Stats (by 2023.5.3)</center>**
-
-* Google Citation: 183
+* Google Citation: 184
 * H-index: 8 
 * i10-index: 7
