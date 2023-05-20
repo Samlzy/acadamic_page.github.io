@@ -47,8 +47,8 @@ title: Activities
 * *China Automation Congress* (CAC)
 * *Chinese Process Control Conference* (CPCC)
 
-**<center> Research Stats (by 2023.5.12)</center>**
+**<center> Research Stats (by 2023.5.20)</center>**
 
-* Google Citation: 184
+* Google Citation: 188
 * H-index: 8 
 * i10-index: 7
