@@ -1,12 +1,12 @@
-- title: About Me
+- title: Biography
   url: /about/
 - title: Experience
   url: /edu/
 - title: Activities
   url: /activity/
-- title: Honors
-  url: /honor/
-- title: News
+#- title: Honors
+#  url: /honor/
+- title: Publications
   url: /
 - title: Life
   url: /life/
