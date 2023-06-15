@@ -47,12 +47,6 @@ title: Activities
 * *China Automation Congress* (CAC)
 * *Chinese Process Control Conference* (CPCC)
 
-**<center> Research Stats (by 2023.5.20)</center>**
-
-* Google Citation: 188
-* H-index: 8 
-* i10-index: 7
-
 &nbsp;
 
 **<center> Scholarships </center>**
@@ -73,3 +67,9 @@ title: Activities
 * The 5th China College Students Internet + Innovation and Entrepreneurship Competition: *National Silver Award*
 * The 28th National Mathematical Contest in Modeling: *National Second Prize*
 * MCM/ICM in 2020: *Meritorious Winner*
+
+**<center> Research Stats (by 2023.5.20)</center>**
+
+* Google Citation: 188
+* H-index: 8 
+* i10-index: 7
