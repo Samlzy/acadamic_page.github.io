@@ -4,43 +4,12 @@ permalink: /news/
 title: News
 ---
 
-# News
 
-这是一个关于新闻的页面。
+## Recent News
 
-## 最新消息
+### Paper Acceptance
 
-### 标题1
+- Date：2023.6.26
+- A paper titled "Real-time safety assessment of dynamic systems in non-stationary environments: A review of methods and techniques" was accepted at the CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (SAFEPROCESS) conference.
 
-- 发布日期：[日期]
-- 作者：[作者名]
-- 摘要：[摘要内容]
-
-[详细内容链接]
-
-### 标题2
-
-- 发布日期：[日期]
-- 作者：[作者名]
-- 摘要：[摘要内容]
-
-[详细内容链接]
-
-## 过往新闻
-
-### 标题3
-
-- 发布日期：[日期]
-- 作者：[作者名]
-- 摘要：[摘要内容]
-
-[详细内容链接]
-
-### 标题4
-
-- 发布日期：[日期]
-- 作者：[作者名]
-- 摘要：[摘要内容]
-
-[详细内容链接]
-
+## Past News
