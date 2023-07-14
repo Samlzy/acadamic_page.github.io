@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data -- CFD Datasets of Rotating Machinery
+title: Data — CFD Datasets of Rotating Machinery
 tags: dataset
 math: true
 date: 2022-7-8 00:00 +0800

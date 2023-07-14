@@ -1,11 +1,13 @@
+- title: News
+  url: /news/
 - title: Biography
   url: /about/
 - title: Experience
   url: /edu/
 - title: Activities
   url: /activity/
-- title: News
-  url: /news/
+- title: Workshop
+  url: /workshop/
 - title: Publications
   url: /
 - title: Photo Wall

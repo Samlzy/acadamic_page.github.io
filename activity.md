@@ -16,19 +16,19 @@ title: Activities
 
 ***Current***
 
-* **Chen Li** (*M.E. Candidate*), *Tsinghua University*, Department of Automation
+* **Songqiao Hu**, *Beijing Institute of Technology*, School of Automation
 
-* **Songqiao Hu** (*Research Assistant*), *Beijing Institute of Technology*, School of Automation
+* **Pengyu Han**, *Beijing Institute of Technology*, School of Automation
 
-* **Pengyu Han** (*Research Assistant*), *Beijing Institute of Technology*, School of Automation
-
-* **Jinghao Yang** (*Research Assistant*), *Tsinghua University*, Department of Automation
+* **Jinghao Yang**, *Tsinghua University*, Department of Automation
 
 ***Past***
 
-* **Mengfei Mao** (*Research Assistant*), *Chongqing University*, College of Automation
+* **Mengfei Mao**, *Chongqing University*, College of Automation
 
-* **Guokai Yan** (*Research Assistant*), *Tsinghua University*, Department of Automation
+* **Guokai Yan**, *Tsinghua University*, Department of Automation
+
+* **Chen Li**, *Tsinghua University*, Department of Automation
 
 &nbsp;
 
@@ -68,8 +68,8 @@ title: Activities
 * The 28th National Mathematical Contest in Modeling: **National Second Prize**
 * MCM/ICM in 2020: **Meritorious Winner**
 
-**<center> Research Stats (by 2023.5.20)</center>**
+**<center> Research Stats (by 2023.7.14)</center>**
 
-* Google Citation: 188
+* Google Citation: 202
 * H-index: 8 
-* i10-index: 7
+* i10-index: 8

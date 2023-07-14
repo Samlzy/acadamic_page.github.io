@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-19T23:55:29+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeyi Liu</title><subtitle>Personal Acadamic Homepage</subtitle><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><entry><title type="html">SAFEPROCESS-2023 [RTSA-Survey]</title><link href="http://localhost:4000/2023/04/15/LiuZYC01/" rel="alternate" type="text/html" title="SAFEPROCESS-2023 [RTSA-Survey]" /><published>2023-04-15T00:00:00+08:00</published><updated>2023-04-15T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/15/LiuZYC01</id><content type="html" xml:base="http://localhost:4000/2023/04/15/LiuZYC01/">&lt;p&gt;&lt;em&gt;Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-14T22:38:51+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zeyi Liu</title><subtitle>Personal Acadamic Homepage</subtitle><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><entry><title type="html">J14 — IEEE TNNLS [DSLS]</title><link href="http://localhost:4000/2023/07/03/LiuZY07/" rel="alternate" type="text/html" title="J14 — IEEE TNNLS [DSLS]" /><published>2023-07-03T00:00:00+08:00</published><updated>2023-07-03T00:00:00+08:00</updated><id>http://localhost:4000/2023/07/03/LiuZY07</id><content type="html" xml:base="http://localhost:4000/2023/07/03/LiuZY07/">&lt;p&gt;&lt;em&gt;Dynamic Submodular-based Learning Strategy in Imbalanced Drifting Streams for Real-time Safety Assessment in Nonstationary Environments&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY07.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Neural Networks and Learning Systems&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The design of real-time safety assessment approaches in nonstationary environments is meaningful to reduce the possibility of significant losses. However, several challenging problems are needed to be well considered. The performance of existing approaches will be negatively affected in the settings of imbalanced drifting streams. In this case, the model design with the incremental update should also be explored. Furthermore, the query strategy should also be well designed. This paper investigates a dynamic submodular-based learning strategy to address such issues. Specifically, an efficient incremental update procedure is designed with the structure of the broad learning system, which is beneficial to the detection of concept drift. Furthermore, a novel dynamic submodular-based annotation with activation interval strategy is proposed to select valuable samples in imbalanced drifting streams. The lower bound of annotation value is also proven theoretically with a novel drift adaption mechanism. Numerous experiments are conducted with the realistic data of JiaoLong deep-sea manned submersible. The experimental results show that the proposed approach can achieve better assessment accuracy than typical existing approaches.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: In Press&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 14.255&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="Journal," /><category term="Rank-1" /><summary type="html">Dynamic Submodular-based Learning Strategy in Imbalanced Drifting Streams for Real-time Safety Assessment in Nonstationary Environments</summary></entry><entry><title type="html">C01 — CPCC 2023 [IBLS-ER]</title><link href="http://localhost:4000/2023/04/28/LiC-CPCC/" rel="alternate" type="text/html" title="C01 — CPCC 2023 [IBLS-ER]" /><published>2023-04-28T00:00:00+08:00</published><updated>2023-04-28T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/28/LiC-CPCC</id><content type="html" xml:base="http://localhost:4000/2023/04/28/LiC-CPCC/">&lt;p&gt;&lt;em&gt;An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiC-C-01.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: An evidential real-time multi-mode fault diagnosis approach based on broad learning system&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conference&lt;/strong&gt;: &lt;em&gt;The 34th Chinese Process Control Conference, 2023&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Fault diagnosis is a crucial area of research in the industry due to diverse operating conditions that exhibit non-Gaussian, multi-mode, and center-drift characteristics. Currently, data-driven approaches are the main focus in the field, but they pose challenges for continuous fault classification and parameter updates of fault classifiers, particularly in multiple operating modes and real-time settings. Therefore, a pressing issue is to achieve real-time multi-mode fault diagnosis for industrial systems. To address this problem, this paper proposes a novel approach that utilizes an evidence reasoning (ER) algorithm to fuse information and merge outputs from different base classifiers. These base classifiers are developed using a broad learning system (BLS) to improve good fault diagnosis performance. Moreover, in this approach, the pseudo-label learning method is employed to update model parameters in real-time. To demonstrate the effectiveness of the proposed approach, we perform experiments using the multi-mode Tennessee Eastman process dataset.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Accept&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="Conference," /><category term="Rank-2" /><summary type="html">An Evidential Real-Time Multi-Mode Fault Diagnosis Approach Based on Broad Learning System</summary></entry><entry><title type="html">C03 – SAFEPROCESS-2023 [RTSA-Survey]</title><link href="http://localhost:4000/2023/04/15/LiuZYC01/" rel="alternate" type="text/html" title="C03 – SAFEPROCESS-2023 [RTSA-Survey]" /><published>2023-04-15T00:00:00+08:00</published><updated>2023-04-15T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/15/LiuZYC01</id><content type="html" xml:base="http://localhost:4000/2023/04/15/LiuZYC01/">&lt;p&gt;&lt;em&gt;Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY-C-01.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
@@ -10,11 +44,11 @@
 
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Real-time safety assessment (RTSA) of dynamic systems is a critical task that has significant implications for various fields such as industrial and transportation applications, especially in non-stationary environments. However, the absence of a comprehensive review of real-time safety assessment methods in non-stationary environments impedes the progress and refinement of related methods. In this paper, a review of methods and techniques for RTSA tasks in non-stationary environments is provided. Specifically, the background and significance of RTSA approaches in non-stationary environments are firstly highlighted. We then present a problem description that covers the definition, classification, and main challenges. We review recent developments in related technologies such as online active learning, online semi-supervised learning, online transfer learning, and online anomaly detection. Finally, we discuss future outlooks and potential directions for further research. Our review aims to provide a comprehensive and up-to-date overview of real-time safety assessment methods in non-stationary environments, which can serve as a valuable resource for researchers and practitioners in this field.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Under Review&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Accept&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Compendex&lt;/strong&gt;: EI Compendex&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques</summary></entry><entry><title type="html">IEEE-TIM [Ivrr-PPG]</title><link href="http://localhost:4000/2023/04/13/XuM-01/" rel="alternate" type="text/html" title="IEEE-TIM [Ivrr-PPG]" /><published>2023-04-13T00:00:00+08:00</published><updated>2023-04-13T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/13/XuM-01</id><content type="html" xml:base="http://localhost:4000/2023/04/13/XuM-01/">&lt;p&gt;&lt;em&gt;Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="Conference," /><category term="Rank-1" /><summary type="html">Real-time Safety Assessment of Dynamic Systems in Non-stationary Environments: A Review of Methods and Techniques</summary></entry><entry><title type="html">J13 — IEEE TIM [Ivrr-PPG]</title><link href="http://localhost:4000/2023/04/13/XuM-01/" rel="alternate" type="text/html" title="J13 — IEEE TIM [Ivrr-PPG]" /><published>2023-04-13T00:00:00+08:00</published><updated>2023-04-13T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/13/XuM-01</id><content type="html" xml:base="http://localhost:4000/2023/04/13/XuM-01/">&lt;p&gt;&lt;em&gt;Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers&lt;/em&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
@@ -33,7 +67,7 @@
 
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Heart rate can be accurately measured by Remote PhotoPlethysmoGraphy (rPPG) in stable illumination and noise-controlled environments such as indoors. However, heart rate measure in automotive scene is still faced with several challenges since the lighting illumination in the cab often changes dramatically. To address such issues, a novel method named Illumination Variation Robust Remote-PhotoPlethysmoGraphy (Ivrr-PPG) is proposed for monitoring the heart rate of drivers during on-road driving. The prototype is based on a commercial off-the-shelf imaging system, which includes a monochrome camera with 940 nm narrowband NIR filter and two 940 nm NIR active light sources to collect real-time video of drivers. Based on a dichromatic model, the core idea of our method is to model the non-linear relationship between illumination changing and the rPPG signal. This paper also proposed to use a background region to sense the illumination changing and consequently suppress its impact on the pulse signal. A single-tone sinusoidal signal-based frequency estimation method is then used to compute the heart rate. Experimental results conducted on four different on-road driving scenarios show that the Ivrr-PPG significantly outperforms the state-of-the-art single-channel narrowband NIR algorithms.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: In Press&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Published&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
 
@@ -43,7 +77,7 @@
 
 &lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;M. Xu, G. Zeng, Y. Song, Y. Cao, Z. Liu and X. He, &quot;Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers,&quot; in IEEE Transactions on Instrumentation and Measurement, to be published.```
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;M. Xu, G. Zeng, Y. Song, Y. Cao, Z. Liu, X. He, Ivrr-PPG: an illumination variation robust remote-PPG algorithm for monitoring driver’s heart rate, IEEE Transactions on Instrumentation and Measurement, vol. 72, no. 3515510, pp. 1-10. 2023, JCR Q1, IF: 5.332.```
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@ARTICLE{9507344,
@@ -51,12 +85,12 @@
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={Ivrr-PPG: an illumination variation robust remote-PPG algorithm for monitoring heart rate of drivers}, 
   year={2023},
-  volume={},
-  number={},
+  volume={72},
+  number={3515510},
   pages={1-10},
   doi={}}
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-5" /><summary type="html">Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers</summary></entry><entry><title type="html">IEEE-TITS [MTSGABL]</title><link href="http://localhost:4000/2023/04/06/LiuZY05/" rel="alternate" type="text/html" title="IEEE-TITS [MTSGABL]" /><published>2023-04-06T00:00:00+08:00</published><updated>2023-04-06T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/06/LiuZY05</id><content type="html" xml:base="http://localhost:4000/2023/04/06/LiuZY05/">&lt;p&gt;&lt;em&gt;Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations&lt;/em&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="Journal," /><category term="Rank-5" /><summary type="html">Ivrr-PPG: An Illumination Variation Robust Remote-PPG Algorithm for Monitoring Heart Rate of Drivers</summary></entry><entry><title type="html">J12 — IEEE TITS [MTSGABL]</title><link href="http://localhost:4000/2023/04/06/LiuZY05/" rel="alternate" type="text/html" title="J12 — IEEE TITS [MTSGABL]" /><published>2023-04-06T00:00:00+08:00</published><updated>2023-04-06T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/06/LiuZY05</id><content type="html" xml:base="http://localhost:4000/2023/04/06/LiuZY05/">&lt;p&gt;&lt;em&gt;Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY05.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
@@ -91,7 +125,7 @@
   doi={10.1109/TITS.2023.3266256},
   publisher={IEEE}
 }
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations</summary></entry><entry><title type="html">IEEE-TASE [CPRC]</title><link href="http://localhost:4000/2023/03/21/LiuZY02/" rel="alternate" type="text/html" title="IEEE-TASE [CPRC]" /><published>2023-03-21T00:00:00+08:00</published><updated>2023-03-21T00:00:00+08:00</updated><id>http://localhost:4000/2023/03/21/LiuZY02</id><content type="html" xml:base="http://localhost:4000/2023/03/21/LiuZY02/">&lt;p&gt;&lt;em&gt;Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level Real-Time Safety Assessment&lt;/em&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="Journal," /><category term="Rank-1" /><summary type="html">Real-Time Safety Assessment for Dynamic Systems With Limited Memory and Annotations</summary></entry><entry><title type="html">P05 — IEEE TASE [CPRC]</title><link href="http://localhost:4000/2023/03/21/LiuZY02/" rel="alternate" type="text/html" title="P05 — IEEE TASE [CPRC]" /><published>2023-03-21T00:00:00+08:00</published><updated>2023-03-21T00:00:00+08:00</updated><id>http://localhost:4000/2023/03/21/LiuZY02</id><content type="html" xml:base="http://localhost:4000/2023/03/21/LiuZY02/">&lt;p&gt;&lt;em&gt;Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level Real-Time Safety Assessment&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY02.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
@@ -101,7 +135,7 @@
 
 &lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Automation Science and Engineering&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Chunk-level real-time safety assessment is a critical process for identifying and analyzing potential safety hazards in industrial applications. Active learning has been widely recognized as an effective technique for addressing such issues by utilizing small labeled samples to achieve high evaluation performance. However, in real-world scenarios, the performance of querying strategies can be significantly impacted by the data environment. Therefore, it is crucial to co-design strategy using different criteria to ensure reliable and stable safety assessment results for system operation. In this paper, we propose a contrastive preference-guided active learning approach to tackle chunk-level real-time safety assessment tasks in non-stationary environments. Firstly, we construct negative ranking lists and random lists. Then, we introduce Jeffrey divergence to measure pairwise ranking correlation. By leveraging contrastive preference relationships, we can effectively obtain the value of samples in data chunks with preference aggregation procedures. To verify the effectiveness of the proposed method, we conduct numerous experiments using realistic data from the JiaoLong deep-sea manned submersible. The results demonstrate that our approach outperforms most existing advanced methods in terms of performance stability and accuracy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Chunk-level real-time safety assessment is a critical process for identifying and analyzing potential safety hazards in industrial applications. Active learning has been widely rec- ognized as an effective technique for addressing such issues by utilizing small labeled samples to achieve high evaluation performance. However, in real-world scenarios, the performance of query strategies can be significantly impacted by the data environment. Therefore, it is crucial to co-design strategy using different criteria to ensure reliable and stable safety assess- ment results for system operation. In this paper, we propose a contrastive preference-guided active learning approach to tackle chunk-level real-time safety assessment tasks in non- stationary environments. Firstly, we construct negative ranking lists and random lists. Then, we introduce Jeffrey divergence to measure pairwise ranking correlation. By leveraging contrastive preference relationships, we can effectively obtain the value of samples in data chunks with preference aggregation procedures. To verify the effectiveness of the proposed method, we conduct numerous experiments using realistic data from the JiaoLong deep-sea manned submersible. The results demonstrate that our approach outperforms most existing advanced methods in terms of performance stability and accuracy.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Under Review&lt;/p&gt;
 
@@ -111,27 +145,7 @@
 
 &lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A+&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level Real-Time Safety Assessment</summary></entry><entry><title type="html">IEEE-TNNLS [DSLS]</title><link href="http://localhost:4000/2023/03/01/LiuZY07/" rel="alternate" type="text/html" title="IEEE-TNNLS [DSLS]" /><published>2023-03-01T00:00:00+08:00</published><updated>2023-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/03/01/LiuZY07</id><content type="html" xml:base="http://localhost:4000/2023/03/01/LiuZY07/">&lt;p&gt;&lt;em&gt;Dynamic Submodular-based Learning Strategy in Imbalanced Drifting Streams for Real-time Safety Assessment in Nonstationary Environments&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY07.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Neural Networks and Learning Systems&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The design of real-time safety assessment approaches in nonstationary environments is meaningful to reduce the possibility of significant losses. However, several challenging problems are needed to be well considered. The performance of existing approaches will be negatively affected in the settings of imbalanced drifting streams. In this case, the model design with the incremental update should also be explored. Furthermore, the query strategy should also be well designed. This paper investigates a dynamic submodular-based learning strategy to address such issues. Specifically, an efficient incremental update procedure is designed with the structure of the broad learning system, which is beneficial to the detection of concept drift. Furthermore, a novel dynamic submodular-based annotation with activation interval strategy is proposed to select valuable samples in imbalanced drifting streams. The lower bound of annotation value is also proven theoretically with a novel drift adaption mechanism. Numerous experiments are conducted with the realistic data of JiaoLong deep-sea manned submersible. The experimental results show that the proposed approach can achieve better assessment accuracy than typical existing approaches.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Major Revision&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;JCR&lt;/strong&gt;: Q1&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Impact Factor&lt;/strong&gt; (2021): 14.255&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Dynamic Submodular-based Learning Strategy in Imbalanced Drifting Streams for Real-time Safety Assessment in Nonstationary Environments</summary></entry><entry><title type="html">IEEE-TCST [MCAL]</title><link href="http://localhost:4000/2023/02/14/LiuZY04/" rel="alternate" type="text/html" title="IEEE-TCST [MCAL]" /><published>2023-02-14T00:00:00+08:00</published><updated>2023-02-14T00:00:00+08:00</updated><id>http://localhost:4000/2023/02/14/LiuZY04</id><content type="html" xml:base="http://localhost:4000/2023/02/14/LiuZY04/">&lt;p&gt;&lt;em&gt;Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multi-criteria Active Learning Approach Based on Broad Learning System&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Contrastive Preference-Guided Active Learning Approach Based on Ranking Correlation for Chunk-Level Real-Time Safety Assessment</summary></entry><entry><title type="html">J10 — IEEE TCST [MCAL]</title><link href="http://localhost:4000/2023/02/14/LiuZY04/" rel="alternate" type="text/html" title="J10 — IEEE TCST [MCAL]" /><published>2023-02-14T00:00:00+08:00</published><updated>2023-02-14T00:00:00+08:00</updated><id>http://localhost:4000/2023/02/14/LiuZY04</id><content type="html" xml:base="http://localhost:4000/2023/02/14/LiuZY04/">&lt;p&gt;&lt;em&gt;Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multi-criteria Active Learning Approach Based on Broad Learning System&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/MCAL.jpeg&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
@@ -166,7 +180,7 @@
   pages={953-960},
   doi={10.1109/TCST.2022.3200214}}
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-1" /><summary type="html">Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multi-criteria Active Learning Approach Based on Broad Learning System</summary></entry><entry><title type="html">JiaoLong DSMS Datasets</title><link href="http://localhost:4000/2023/02/01/JiaoLong_Dataset/" rel="alternate" type="text/html" title="JiaoLong DSMS Datasets" /><published>2023-02-01T00:00:00+08:00</published><updated>2023-02-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/02/01/JiaoLong_Dataset</id><content type="html" xml:base="http://localhost:4000/2023/02/01/JiaoLong_Dataset/">&lt;p&gt;&lt;em&gt;JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)&lt;/em&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="Journal," /><category term="Rank-1" /><summary type="html">Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multi-criteria Active Learning Approach Based on Broad Learning System</summary></entry><entry><title type="html">Data — JiaoLong DSMS Datasets</title><link href="http://localhost:4000/2023/02/01/JiaoLong_Dataset/" rel="alternate" type="text/html" title="Data — JiaoLong DSMS Datasets" /><published>2023-02-01T00:00:00+08:00</published><updated>2023-02-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/02/01/JiaoLong_Dataset</id><content type="html" xml:base="http://localhost:4000/2023/02/01/JiaoLong_Dataset/">&lt;p&gt;&lt;em&gt;JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/jiaolong.png&quot; alt=&quot;GA&quot; /&gt;
 &lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/Jiaolong_fig.jpeg&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
@@ -180,7 +194,7 @@ The form of data is the multi-variate time series with around 11 features for ab
 
 &lt;p&gt;During the experiment, the JiaoLong DSMS gradually descended from the shore to around 3000 meters. It is worth noting that the used labels are derived from the records of real voyage logs obtained in JiaoLong DSMS. The total number of samples is \(64138\).&lt;/p&gt;
 
-&lt;p&gt;For more details, please refer to the &lt;a href=&quot;https://github.com/liuzy0708/JiaolongDSMS_datasets&quot;&gt;&lt;em&gt;Github Repository&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="dataset" /><summary type="html">JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)</summary></entry><entry><title type="html">IEEE-TCYB [DMI-LS]</title><link href="http://localhost:4000/2023/02/01/LiuZY08/" rel="alternate" type="text/html" title="IEEE-TCYB [DMI-LS]" /><published>2023-02-01T00:00:00+08:00</published><updated>2023-02-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/02/01/LiuZY08</id><content type="html" xml:base="http://localhost:4000/2023/02/01/LiuZY08/">&lt;p&gt;&lt;em&gt;Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For more details, please refer to the &lt;a href=&quot;https://github.com/liuzy0708/JiaolongDSMS_datasets&quot;&gt;&lt;em&gt;Github Repository&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="dataset" /><summary type="html">JiaoLong Deep-Sea Manned Submersible datasets (Life Support System)</summary></entry><entry><title type="html">P04 — IEEE TCYB [DMI-LS]</title><link href="http://localhost:4000/2023/02/01/LiuZY08/" rel="alternate" type="text/html" title="P04 — IEEE TCYB [DMI-LS]" /><published>2023-02-01T00:00:00+08:00</published><updated>2023-02-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/02/01/LiuZY08</id><content type="html" xml:base="http://localhost:4000/2023/02/01/LiuZY08/">&lt;p&gt;&lt;em&gt;Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/LiuZY08.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
@@ -190,7 +204,7 @@ The form of data is the multi-variate time series with around 11 features for ab
 
 &lt;p&gt;&lt;strong&gt;Journal&lt;/strong&gt;: &lt;em&gt;IEEE Transactions on Cybernetics&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Chunk-based real-time safety assessment of dynamic systems is of great significance for the timely discovery of industrial risks and reduction of losses. However, existing methods have certain limitations in dealing with such issues, especially in non-stationary environments. Generally, potential concept drift needs to be detected interpretively, which is inevitable in many cases. The incremental learning scheme should also be well considered. In this paper, the dynamic model interpretation-guided online active learning scheme, termed DMI-LS, is proposed. Specifically, the model update strategy with chunk data is designed based on the implementation of the broad learning system. A novel query strategy is then investigated to consider the ranking preference difference, which relies on the interpretation generated by the explainable artificial intelligence method. Several experiments based on the JiaoLong deep-sea manned submersible data are conducted to verify the effects of the proposed DMI-LS. The results show that it outperforms the other advanced existing approaches with different settings in most scenarios.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Chunk-level real-time safety assessment of dynamic systems is a critical component of industrial processes, which is essential to prevent hazards and reduce the risk of injury or damage to equipment and facilities, especially in nonstationary environments. In this context, multiple real and complex concept drifts are inevitable in industrial settings, making it crucial to understand their detection and adaptation processes. The incre- mental learning scheme should also be well considered. However, existing methods have certain limitations in dealing with such is- sues. In this paper, a dynamic model interpretation-guided online active learning scheme, termed DMI-LS, is proposed. Specifically, the model update strategy with chunk data is designed based on the implementation of the broad learning system. A novel query strategy is then investigated to consider the ranking preference difference, which relies on the interpretation generated by the explainable artificial intelligence method. Several experiments based on the JiaoLong deep-sea manned submersible data are conducted to verify the effects of the proposed DMI-LS. The results show that it outperforms the other advanced existing approaches with different settings in most scenarios.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Major Revision&lt;/p&gt;
 
@@ -200,7 +214,7 @@ The form of data is the multi-variate time series with around 11 features for ab
 
 &lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment</summary></entry><entry><title type="html">IEEE-TII [MPPOS-RVFL]</title><link href="http://localhost:4000/2023/01/15/HanPY01/" rel="alternate" type="text/html" title="IEEE-TII [MPPOS-RVFL]" /><published>2023-01-15T00:00:00+08:00</published><updated>2023-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/15/HanPY01</id><content type="html" xml:base="http://localhost:4000/2023/01/15/HanPY01/">&lt;p&gt;&lt;em&gt;A Minority Pseudo-label Prioritized Online Semi-supervised Random Vector Functional Link Network Approach for Industrial Real-time Fault Diagnosis&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: B&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-1" /><summary type="html">Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment</summary></entry><entry><title type="html">P03 — IEEE TII [MPPOS-RVFL]</title><link href="http://localhost:4000/2023/01/15/HanPY01/" rel="alternate" type="text/html" title="P03 — IEEE TII [MPPOS-RVFL]" /><published>2023-01-15T00:00:00+08:00</published><updated>2023-01-15T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/15/HanPY01</id><content type="html" xml:base="http://localhost:4000/2023/01/15/HanPY01/">&lt;p&gt;&lt;em&gt;A Minority Pseudo-label Prioritized Online Semi-supervised Random Vector Functional Link Network Approach for Industrial Real-time Fault Diagnosis&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/HanPY01.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
 
@@ -220,31 +234,4 @@ The form of data is the multi-variate time series with around 11 features for ab
 
 &lt;p&gt;&lt;strong&gt;CAA Rank (中国自动化学会评级)&lt;/strong&gt;: A+&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: C&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-2" /><summary type="html">A Minority Pseudo-label Prioritized Online Semi-supervised Random Vector Functional Link Network Approach for Industrial Real-time Fault Diagnosis</summary></entry><entry><title type="html">EAI-SCUBE [CADM]</title><link href="http://localhost:4000/2023/01/01/HuS01/" rel="alternate" type="text/html" title="EAI-SCUBE [CADM]" /><published>2023-01-01T00:00:00+08:00</published><updated>2023-01-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/01/HuS01</id><content type="html" xml:base="http://localhost:4000/2023/01/01/HuS01/">&lt;p&gt;&lt;em&gt;CADM: Confusion Model-based Detection Method for Real-drift in Chunk Data Stream&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/Samlzy/pics/raw/Samlzy-patch-1/HuS01.png&quot; alt=&quot;GA&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: CADM: Confusion model for real-drift detection in chunk data streams&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Conference&lt;/strong&gt;: &lt;em&gt;Proceedings of 13th EAI International Conference on Sensor Systems and Software&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Concept drift detection has attracted considerable attention due to its importance in many real-world applications such as health monitoring and fault diagnosis. Conventionally, most advanced approaches will be of poor performance when the evaluation criteria of the environment has changed (i.e. concept drift), either can only detect and adapt to virtual drift. In this paper, we propose a new approach to detect real-drift in the chunk data stream with limited annotations based on concept confusion. When a new data chunk arrives, we use both real labels and pseudo labels to update the model after prediction and drift detection. In this context, the model will be confused and yields prediction difference once drift occurs. We then adopt cosine similarity to measure the difference. And an adaptive threshold method is proposed to find the abnormal value. Experiments show that our method has a low false alarm rate and false negative rate with the utilization of different classifiers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Current State&lt;/strong&gt;: Accepted&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Compendex&lt;/strong&gt;: EI Compendex&lt;/p&gt;
-
-&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;S. Hu, Z. Liu, X. He. CADM: Confusion Model-based Detection Method for Real-drift in Chunk Data Stream, Proceedings of 13th EAI International Conference on Sensor Systems and Software, 2022, in Dec., Dalian, Liaoning, China.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{hu2023cadm,
-  title={CADM: Confusion Model-based Detection Method for Real-drift in Chunk Data Stream},
-  author={Hu, Songqiao and Liu, Zeyi and He, Xiao},
-  journal={arXiv preprint arXiv:2303.16906},
-  year={2023}
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="paper," /><category term="Rank-2" /><summary type="html">CADM: Confusion Model-based Detection Method for Real-drift in Chunk Data Stream</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;CCF Rank (中国计算机学会评级)&lt;/strong&gt;: C&lt;/p&gt;</content><author><name>Zeyi Liu</name><email>liuzy21@mails.tsinghua.edu.cn</email></author><category term="preprint," /><category term="Rank-2" /><summary type="html">A Minority Pseudo-label Prioritized Online Semi-supervised Random Vector Functional Link Network Approach for Industrial Real-time Fault Diagnosis</summary></entry></feed>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data -- Concept Drift Datasets
+title: Data — Concept Drift Datasets
 tags: dataset
 math: true
 date: 2022-4-17 00:00 +0800
