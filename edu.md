@@ -6,7 +6,7 @@ title: Experience
 
 **<center> Education </center>**
 
-* **B.S.** in School of Computer and Information Science, *Southwest University*, Chongqing, China, 2017.9 ~ 2021.6 (Here I met my love)
+* **B.E.** in School of Computer and Information Science, *Southwest University*, Chongqing, China, 2017.9 ~ 2021.6 (Here I met my love)
 
 * **Ph.D.** in Department of Automation, *Tsinghua University*, Beijing, China, 2021.9 ~ 2027.1 (*expected*)
 
