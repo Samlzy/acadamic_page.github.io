@@ -6,7 +6,7 @@ math: true
 date: 2022-4-17 00:00 +0800
 ---
 
-*Simulted Concept Drift Datasets*
+*Simulated Concept Drift Datasets*
 
 ## Description
 
