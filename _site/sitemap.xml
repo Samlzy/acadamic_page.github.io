@@ -127,6 +127,9 @@
 <loc>http://localhost:4000/activity/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/workshop/blog1/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
@@ -142,6 +145,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/workshop/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/life/</loc>
 </url>
 <url>
@@ -149,9 +155,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/workshop/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
