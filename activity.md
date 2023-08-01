@@ -56,7 +56,7 @@ title: Activities
 * **First Prize** Scholarship of Southwest Univeristy (2019) (￥5000)
 * **Second Prize** Scholarship of Southwest Univeristy (2018) (￥3000)
 * **TangLiXin Scholarship** (2019) (￥10000)
-* **Pinsheng Scholarship** (2019, 2020) (￥5000*2)
+* **Pinsheng Scholarship** (2019, 2020) (￥5000\*2)
 
 &nbsp;
 
@@ -70,6 +70,6 @@ title: Activities
 
 **<center> Research Stats (by 2023.7.14)</center>**
 
-* Google Citation: 202
-* H-index: 8 
+* Google Citation: 212
+* H-index: 9
 * i10-index: 8
