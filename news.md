@@ -8,8 +8,6 @@ title: News
 
 - **2023.07.03**: A paper entitled "Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments" has been accepted by the international journal of *IEEE Transactions on Neural Networks and Learning Systems*.
 
-- **2023.07.03**: A paper entitled "Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments" has been accepted by the international journal of *IEEE Transactions on Neural Networks and Learning Systems*.
-
 - **2023.06.26**: A paper entitled "Real-time safety assessment of dynamic systems in non-stationary environments: A review of methods and techniques" has been accepted by the *CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes* (SAFEPROCESS) conference.
 
 - **2023.05.29**: A paper entitled "An evidential real-time multi-mode fault diagnosis approach based on broad learning system" has been accepted by the *34th Chinese Process Control Conference* (CPCC) conference.
