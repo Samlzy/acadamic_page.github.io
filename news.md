@@ -21,3 +21,11 @@ This is a very important piece of research with great implications for protectin
 - **2023.04.27**: A paper entitled "Ivrr-PPG: an illumination variation robust remote-PPG algorithm for monitoring heart rate of drivers" has been accepted by the international journal of *IEEE Transactions on Instrumentation and Measurement*.
 
 - **2023.04.06**: A paper entitled "Real-time safety assessment for dynamic systems with limited memory and annotations" has been accepted by the international journal of *IEEE Transactions on Intelligent Transportation Systems*.
+
+- **2022.12.04**: A paper entitled "Confusion model for real-drift detection in chunk data streams" has been accepted by the *Proceedings of 13th EAI International Conference on Sensor Systems and Software* conference.
+
+ - **2022.11.11**: A paper entitled "An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments" has been accepted by the international journal of * IEEE Transactions on Neural Networks and Learning Systems*.
+
+- **2022.10.17**: I was fortunate to be awarded The National Scholarship of P. R. China for Graduates. 
+- 
+- **2022.08.12**: A paper entitled "Fault diagnosis of rotating machinery with limited expert interaction: a multi-criteria active learning approach based on broad learning system" has been accepted by the international journal of *IEEE Transactions on Control Systems Technology*.
