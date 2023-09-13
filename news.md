@@ -4,6 +4,8 @@ permalink: /news/
 title: 
 ---
 
+- **2023.09.12**: I defended my Social Practice Scholarship and received an award. Unforgettable experience :)
+
 - **2023.07.06**: The personal Google Scholar citations has reached 200.
 
 - **2023.07.03**: A paper entitled "Dynamic submodular-based learning strategy in imbalanced drifting streams for real-time safety assessment in nonstationary environments" has been accepted by the international journal of *IEEE Transactions on Neural Networks and Learning Systems*.
