@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /life/
-title: Photo Wall
+title:
 ---
 
 *<font size=5><center> Aranya </center></font>*

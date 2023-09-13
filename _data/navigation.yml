@@ -1,6 +1,6 @@
 - title: News
   url: /news/
-- title: Biography
+- title: About me
   url: /about/
 - title: Experience
   url: /edu/
@@ -10,5 +10,5 @@
   url: /workshop/
 - title: Publications
   url: /
-- title: Photo Wall
+- title: Life Memory
   url: /life/

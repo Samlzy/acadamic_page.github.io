@@ -139,9 +139,6 @@
 <loc>http://localhost:4000/edu/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/honor/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -161,5 +158,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/CV_official.pdf</loc>
+<lastmod>2023-09-13T22:04:37+08:00</lastmod>
 </url>
 </urlset>

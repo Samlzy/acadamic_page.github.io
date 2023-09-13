@@ -1,38 +1,32 @@
 ---
 layout: page
 permalink: /activity/
-title: Activities
+title:
 ---
 
 
-**<center> Social Membership </center>**
+## <center> Social Membership </center> ##
 
-* **Chinese Association of Automation** (CAA): Member
-* **Chinese Association for Artificial Intelligence** (CAAI): Member
+* Chinese Association of Automation (CAA): Member
+* Chinese Association for Artificial Intelligence (CAAI): Member
 
-&nbsp;
+## <center> Student Mentoring</center> ##
 
-**<center> Student Mentoring</center>**
+### Current ###
 
-***Current***
+* **Songqiao Hu**,  Tsinghua University
+* **Pengyu Han**, Beijing Institute of Technology
 
-* **Songqiao Hu**, *Beijing Institute of Technology*, School of Automation
 
-* **Pengyu Han**, *Beijing Institute of Technology*, School of Automation
+### Past ###
 
-* **Jinghao Yang**, *Tsinghua University*, Department of Automation
+* **Mengfei Mao**, Chongqing University
+* **Guokai Yan**, Tsinghua University
+* **Chen Li**, Tsinghua University
+* **Jinghao Yang**, Tsinghua University
 
-***Past***
 
-* **Mengfei Mao**, *Chongqing University*, College of Automation
-
-* **Guokai Yan**, *Tsinghua University*, Department of Automation
-
-* **Chen Li**, *Tsinghua University*, Department of Automation
-
-&nbsp;
-
-**<center> Review Activities </center>**
+## <center> Review Activities </center> ##
 
 * **IEEE Transactions on on Pattern Analysis and Machine Intelligence** (IEEE TPAMI) 
 * **IEEE Transactions on Neural Networks and Learning Systems** (IEEE TNNLS) 
@@ -47,9 +41,7 @@ title: Activities
 * **China Automation Congress** (CAC)
 * **Chinese Process Control Conference** (CPCC)
 
-&nbsp;
-
-**<center> Scholarships </center>**
+## <center> Scholarships </center> ##
 * **National Scholarship** of P. R. China for Graduates (2022) (￥20000)
 * **National Scholarship** of P. R. China for Undergraduate Students (2020) (￥8000)
 * **Special Prize** Scholarship of Southwest Univeristy (2020) (￥10000)
@@ -58,9 +50,8 @@ title: Activities
 * **TangLiXin Scholarship** (2019) (￥10000)
 * **Pinsheng Scholarship** (2019, 2020) (￥5000\*2)
 
-&nbsp;
 
-**<center> Main Awards </center>**
+## <center> Main Awards </center> ##
 * **Outstanding Graduates** of Southwest University (2021)
 * 2019-2020 Academic Year **Outstanding Student Model** of Southwest University (2020)
 * **Merit Student Award**, **Academic Technology Award**, **Innovation and Entrepreneurship Award** of Southwest University (2020)
@@ -68,8 +59,8 @@ title: Activities
 * The 28th National Mathematical Contest in Modeling: **National Second Prize**
 * MCM/ICM in 2020: **Meritorious Winner**
 
-**<center> Research Stats (by 2023.7.14)</center>**
+## <center> Research Stats (by 2023.9.13)</center> ##
 
-* Google Citation: 212
+* Google Citation: 220
 * H-index: 9
-* i10-index: 8
+* i10-index: 9
