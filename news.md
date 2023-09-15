@@ -4,7 +4,7 @@ permalink: /news/
 title: 
 ---
 
-- **2023.09.12**: I defended my Social Practice Scholarship and received an award. Unforgettable experience :)
+- **2023.09.12**: I have completed my Social Practice Scholarship defend and received an award. Unforgettable experience for this summer! :)
 
 - **2023.07.06**: The personal Google Scholar citations has reached 200.
 
@@ -24,6 +24,6 @@ title:
 
 - **2022.11.11**: A paper entitled "An online active broad learning approach for real-time safety assessment of dynamic systems in nonstationary environments" has been accepted by the international journal of * IEEE Transactions on Neural Networks and Learning Systems*.
 
-- **2022.10.17**: I was fortunate to be awarded The National Scholarship of P. R. China for Graduates. 
+- **2022.10.17**: I was fortunate to be awarded The National Scholarship of P. R. China for Graduates.
 
 - **2022.08.12**: A paper entitled "Fault diagnosis of rotating machinery with limited expert interaction: a multi-criteria active learning approach based on broad learning system" has been accepted by the international journal of *IEEE Transactions on Control Systems Technology*.
